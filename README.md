@@ -1,2 +1,2 @@
 ﻿# herrisonf.github.io
-Iniciando a página pessoal e testando os commits
+Página pessoal como um currículo "dinâmico"
