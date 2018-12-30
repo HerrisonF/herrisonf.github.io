@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Fredericka+the+Great|Merienda');
+@import url('https://fonts.googleapis.com/css?family=Merienda');
 html,
 body {
     margin: 0;
@@ -30,10 +32,11 @@ body {
     text-decoration: none;
     color: #fff;
     font-size: 2.5rem;
+    font-family: 'Merienda', cursive;
 }
 
 .nav div.logo a:hover {
-    color: #00E676;
+    color: rgb(230, 207, 0);
 }
 
 .nav div.main_list {
@@ -62,10 +65,11 @@ body {
     color: #fff;
     line-height: 65px;
     font-size: 2.4rem;
+    font-family: 'Fredericka the Great', cursive;
 }
 
 .nav div.main_list ul li a:hover {
-    color: #00E676;
+    color: rgb(230, 207, 0);
 }
 
 
