@@ -19,6 +19,7 @@ body {
     position: fixed;
     line-height: 65px;
     text-align: center;
+    z-index: 3;
 }
 
 .nav div.logo {

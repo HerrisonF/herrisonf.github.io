@@ -1,5 +1,13 @@
 #grad1 {
-    height: 200px;
+    height: 1000px;
     background-color: red; /* For browsers that do not support gradients */
     background-image: linear-gradient(to bottom right, red, yellow); /* Standard syntax (must be last) */
+    z-index: 2;
+}
+
+.imagem-principal{
+    margin-top: 12%;
+    float: right;
+    margin-right: 4%;
+    z-index: 1;
 }

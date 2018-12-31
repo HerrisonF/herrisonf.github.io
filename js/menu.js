@@ -1,6 +1,5 @@
 $('.navTrigger').click(function () {
     $(this).toggleClass('active');
-    console.log("Clicked menu");
     $("#mainListDiv").toggleClass("show_list");
     $("#mainListDiv").fadeIn();
 });
@@ -8,8 +7,14 @@ $('.navTrigger').click(function () {
 $(window).scroll(function() {
     if ($(document).scrollTop() > 50) {
         $('.nav').addClass('affix');
-        console.log("OK");
     } else {
         $('.nav').removeClass('affix');
     }
+});
+
+//Fade da imagem principal
+$(document).ready(function(){
+    $(window).scroll(function(){
+        $(".imagem-principal").css("opacity", 1 - $(window).scrollTop() / (($('.imagem-principal').height() + 300 ) / 1.5));
+    });
 });
