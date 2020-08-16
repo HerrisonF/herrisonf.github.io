@@ -6,8 +6,8 @@ function App() {
   return (
     <BrowserRouter>
       <Switch>
-        <Route path="/" exact component={AboutPage} />
-        <Route path="/sobre" component={SquarePage} />
+        <Route path="/" exact component={SquarePage} />
+        <Route path="/sobre" component={AboutPage} />
       </Switch>
     </BrowserRouter>
   );

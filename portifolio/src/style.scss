@@ -1,0 +1,12 @@
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    // background: url("./images/background_image.png") no-repeat center center;;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
