@@ -6,12 +6,12 @@ import './style.scss';
 
 const SquarePage = () => {
     return (
-        <Container id="card-row">
-            <Row>
-                <CardComponent header={'Primeiro'} title={'Primeiro titulo'} description={'Descrição'} color={'Primary'}/>
-                <CardComponent header={'Segundo'} title={'Segundo titulo'} description={'Descrição'} color={'Success'}/>
-                <CardComponent header={'Terceiro'} title={'Terceiro titulo'} description={'Descrição'} color={'Danger'}/>
-                <CardComponent header={'Quarto'} title={'Quarto titulo'} description={'Descrição'} color={'Info'}/>
+        <Container>
+            <Row id="card-row">
+                <CardComponent header={'Sobre mim'}  description={'Tecnologias que tenho preferência, skills e contato.'} color={'Primary'} route={'/sobre'}/>
+                <CardComponent header={'Portifolio'} description={'Projetos desenvolvidos paralelamente ou em trabalho.'} color={'Success'} route={'/portifolio'}/>
+                <CardComponent header={'Currículo'}  description={'Resumo em tópicos de minha trajetória profissional e acadêmica.'} color={'Danger'} route={'/curriculo'}/>
+                <CardComponent header={'Blog'}  description={'Posts sobre algo que estou aprendendo ou lendo.'} color={'Info'} route={'/blog'}/>
             </Row>
         </Container>
     );
