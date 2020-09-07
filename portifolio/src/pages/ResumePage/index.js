@@ -1,9 +1,13 @@
 import React from 'react';
 import { Container } from 'react-bootstrap';
+import BackButtonComponent from '../../components/backButtonComponent';
 
 const ResumePage = () => {
     return(
-        <Container>Resume Page</Container>
+        <Container>
+            <BackButtonComponent />
+            <div>Resume Page</div>
+        </Container>
     );
 };
 

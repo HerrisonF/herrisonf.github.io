@@ -1,0 +1,11 @@
+.image-formatter {
+    width: 100%;
+}
+
+.margin-buttons {
+    margin-left: 10px;
+    @media(max-width: 771px) {
+        margin-top: 20px;
+        margin-left: 0px;
+    }
+}
