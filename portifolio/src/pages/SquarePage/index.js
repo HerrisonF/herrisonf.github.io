@@ -1,18 +1,19 @@
 import React from 'react';
-import { Row, Container } from 'react-bootstrap';
-import CardComponent from '../../components/cardComponent/index';
+import { Container } from 'react-bootstrap';
+import AboutPage from '../AboutPage';
+import ResumePage from '../ResumePage';
+import PortifolioPage from '../PortifolioPage';
+import BlogPage from '../BlogPage';
 
 import './style.scss';
 
 const SquarePage = () => {
     return (
         <Container>
-            <Row id="card-row">
-                <CardComponent header={'Sobre mim'}  description={'Tecnologias que tenho preferência, skills e contato.'} color={'Primary'} route={'/sobre'}/>
-                <CardComponent header={'Portifolio'} description={'Projetos desenvolvidos paralelamente ou em trabalho.'} color={'Success'} route={'/portifolio'}/>
-                <CardComponent header={'Currículo'}  description={'Resumo em tópicos de minha trajetória profissional e acadêmica.'} color={'Danger'} route={'/curriculo'}/>
-                <CardComponent header={'Blog'}  description={'Posts sobre algo que estou aprendendo ou lendo.'} color={'Info'} route={'/blog'}/>
-            </Row>
+            <AboutPage />
+            <ResumePage />
+            <PortifolioPage />
+            <BlogPage />
         </Container>
     );
 };
