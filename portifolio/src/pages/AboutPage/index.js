@@ -1,34 +1,22 @@
 import React from 'react';
-import { Row, Col, Button } from 'react-bootstrap';
-import foto from './../../images/foto.jpeg';
+import { Container } from 'react-bootstrap';
+import AboutMeTextComponent from '../../components/aboutMeTextComponent';
+import HeaderImagemComponent from '../../components/headerImageComponent';
+import TextBoxSectionComponent from '../../components/textBoxSectionComponent';
+import Skillscomponent from '../../components/skillsComponent';
 import './style.scss';
 
 const AboutPage = () => {
     return (
-        <>
-            <Row>Sobre mim</Row>
-            <Row>
-                <Col xs={6} md={6}>
-                    <div id="fachada">
-                        <div className="telhado"/>
-                    </div>
-                    <div>
-                        <img src={foto} className="image-formatter" />
-                    </div>
-                </Col>
-                <Col xs={6} md={6} className="text-principal-info"> 
-                    <Row>Olá, sou <span className="white-text-name">Herrison Féres</span></Row>
-                    <Row className="white-text-job"> Analista de sistemas </Row>
-                    <Row><span className="text">Idade:</span>23 Anos</Row>
-                    <Row><span className="text">Endereço:</span>São José do Rio Preto,São Paulo</Row>
-                    <Row><span className="text">E-mail:</span>HerrisonF_nascimento@hotmail.com</Row>
-                    <Row><span className="text">Telefone:</span>17 9 9642-0598</Row>
-                    <Row className="ajust-button">
-                        <Button className="button-cv">Baixar CV</Button>
-                    </Row> 
-                </Col>
-            </Row>
-        </>
+        <Container>
+            <HeaderImagemComponent />
+            <TextBoxSectionComponent text="Sobre mim"/>
+            <AboutMeTextComponent />
+            <TextBoxSectionComponent text="Habilidades"/>
+            <Skillscomponent />
+            <TextBoxSectionComponent text="Projetos"/>
+            <TextBoxSectionComponent text="Carreira"/>
+        </Container>
     );
 };
 
