@@ -45,9 +45,10 @@ const PortifolioPage = () => {
           ]
       };
     return( 
-        <Container>
-            <TextBoxSectionComponent text="Projetos"/>
-            <div className="testeCenter">
+      <Container>
+        <TextBoxSectionComponent text="Projetos"/>
+        <div className="testeCenter">
+            <div className="teste2">
               <Slider {...settings} >
                 {
                     projectsData.projects.map(project => {
@@ -58,6 +59,7 @@ const PortifolioPage = () => {
                 }
             </Slider>
             </div>
+          </div>
         </Container>
     );
 };
