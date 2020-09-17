@@ -11,8 +11,8 @@ const SquarePage = () => {
     return (
         <Container>
             <AboutPage />
-            <ResumePage />
             <PortifolioPage />
+            <ResumePage />
             <BlogPage />
         </Container>
     );

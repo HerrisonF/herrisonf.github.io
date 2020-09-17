@@ -14,8 +14,6 @@ const AboutPage = () => {
             <AboutMeTextComponent />
             <TextBoxSectionComponent text="Habilidades"/>
             <Skillscomponent />
-            <TextBoxSectionComponent text="Projetos"/>
-            <TextBoxSectionComponent text="Carreira"/>
         </Container>
     );
 };
