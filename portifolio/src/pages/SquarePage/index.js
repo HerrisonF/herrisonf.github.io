@@ -1,19 +1,20 @@
 import React from 'react';
-import { Container } from 'react-bootstrap';
+import { Container, Row } from 'react-bootstrap';
 import AboutPage from '../AboutPage';
 import ResumePage from '../ResumePage';
-import PortifolioPage from '../PortifolioPage';
-import BlogPage from '../BlogPage';
+import SliderPortifolio from '../../components/sliderPortifolio';
+import InterestPage from '../InterestPage';
 
 import './style.scss';
 
 const SquarePage = () => {
     return (
         <Container>
+            <Container><Row className="temp">Ainda estou desenvolvendo !</Row></Container>
             <AboutPage />
-            <PortifolioPage />
+            <SliderPortifolio />
             <ResumePage />
-            <BlogPage />
+            <InterestPage />
         </Container>
     );
 };

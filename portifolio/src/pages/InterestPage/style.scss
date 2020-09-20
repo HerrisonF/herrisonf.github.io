@@ -1,0 +1,38 @@
+.interest-cards-space {
+    margin-bottom: 2rem;
+    margin-top: 4rem;
+}
+
+.card-formatter {
+    width: '150px';
+    height: '150px';
+}
+
+.inside-card-formatter {
+    background-color: #41669d;
+    color: white;
+}
+
+.space-cards {
+    @media (max-width: 767px) {
+        margin-bottom: 2rem;
+    }
+}
+
+.icon-formatter {
+    height: 3rem;
+    width: 3rem;
+    margin-left: 2.2rem;
+    margin-top: 1rem;
+    text-align: -webkit-center;
+}
+
+.text-formatter {
+    text-align: center;
+    margin-top: 0.5rem;
+}
+
+.text-formatter-back{
+    margin-top: 1rem;
+    text-align: center;
+}
