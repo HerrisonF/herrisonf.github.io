@@ -4,7 +4,7 @@
             "title":"Teste1",
             "description": "descrição 1",
             "image": {
-                "imageId": "1"
+                "imageId": 1
             },
             "alt":"Teste"
         },
@@ -12,7 +12,7 @@
             "title":"Teste2",
             "description": "teste2",
             "image": {
-                "imageId": "2"
+                "imageId": 2
             },
             "alt":"Teste"
         },
@@ -20,7 +20,7 @@
             "title":"Teste3",
             "description": "descrição 3",
             "image": {
-                "imageId": "3"
+                "imageId": 3
             },
             "alt":"Teste"
         },
@@ -28,7 +28,7 @@
             "title":"Teste3",
             "description": "descrição 3",
             "image": {
-                "imageId": "4"
+                "imageId": 4
             },
             "alt":"Teste"
         }
