@@ -2,6 +2,7 @@ import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import { MdKeyboardBackspace } from 'react-icons/md';
 import { useHistory } from 'react-router-dom';
+import './style.scss';
 
 const BackButtonComponent = () => {
     let history = useHistory();
@@ -10,9 +11,9 @@ const BackButtonComponent = () => {
         history.push('/');
     }
     return (
-        <Col>
+        <Col >
             <Row>
-                <h5 onClick={() => handleClick()}><MdKeyboardBackspace/>Voltar</h5> 
+                <h5 onClick={() => handleClick()} className="margin-button-back"><MdKeyboardBackspace/>Voltar</h5> 
             </Row>
         </Col>       
     );

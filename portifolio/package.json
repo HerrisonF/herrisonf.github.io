@@ -13,6 +13,7 @@
     "react-flippy": "^0.1.5",
     "react-icons": "^3.11.0",
     "react-image-gallery": "^1.0.8",
+    "react-responsive-carousel": "^3.2.10",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-slick": "^0.27.11",
