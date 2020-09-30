@@ -1,13 +1,3 @@
-.slider-center {
-    text-align: -moz-center;
-    text-align: -webkit-center;
-}
-
-.slider-size {
-    width: 200px;
-    height: 200px;
-}
-
 .see-more {
     text-align: -moz-center;
     text-align: -webkit-center;
@@ -21,4 +11,8 @@
 .button-see-more.btn.btn-primary:hover {
     background-color:  #0fa08d;
     border-color: white;
+}
+
+.margin-cards {
+    margin: 0.5rem;
 }

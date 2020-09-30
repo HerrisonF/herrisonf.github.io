@@ -17,10 +17,9 @@ const HeaderImage = () => {
             <Col xs={6} md={6} className="text-principal-info"> 
                 <Row>Olá, sou <span className="white-text-name">Herrison Féres</span></Row>
                 <Row className="white-text-job"> Analista de sistemas </Row>
-                <Row><span className="text">Idade:</span>23 Anos</Row>
+                <Row><span className="text">Idade:</span>{(new Date().getFullYear() - 1997)}</Row>
                 <Row><span className="text">Endereço:</span>São José do Rio Preto,São Paulo</Row>
                 <Row><span className="text">E-mail:</span>HerrisonF_nascimento@hotmail.com</Row>
-                <Row><span className="text">Telefone:</span>17 9 9642-0598</Row>
                 <Row className="ajust-button">
                     <Button className="button-cv">Baixar CV</Button>
                 </Row> 
