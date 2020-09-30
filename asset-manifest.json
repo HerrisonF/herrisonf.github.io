@@ -1,27 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.17d8ffa5.chunk.css",
-    "main.js": "/static/js/main.58cf3de5.chunk.js",
-    "main.js.map": "/static/js/main.58cf3de5.chunk.js.map",
+    "main.css": "/static/css/main.55f5af9b.chunk.css",
+    "main.js": "/static/js/main.cb1c75bf.chunk.js",
+    "main.js.map": "/static/js/main.cb1c75bf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87831706.js",
     "runtime-main.js.map": "/static/js/runtime-main.87831706.js.map",
     "static/css/2.a15da7e3.chunk.css": "/static/css/2.a15da7e3.chunk.css",
-    "static/js/2.a40c6c77.chunk.js": "/static/js/2.a40c6c77.chunk.js",
-    "static/js/2.a40c6c77.chunk.js.map": "/static/js/2.a40c6c77.chunk.js.map",
+    "static/js/2.2d23bb6c.chunk.js": "/static/js/2.2d23bb6c.chunk.js",
+    "static/js/2.2d23bb6c.chunk.js.map": "/static/js/2.2d23bb6c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9d5616b2451390d7c0a58a96a86dfa28.js": "/precache-manifest.9d5616b2451390d7c0a58a96a86dfa28.js",
+    "precache-manifest.02258f0da2d0df35ab2a695dc65c2dee.js": "/precache-manifest.02258f0da2d0df35ab2a695dc65c2dee.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a15da7e3.chunk.css.map": "/static/css/2.a15da7e3.chunk.css.map",
-    "static/css/main.17d8ffa5.chunk.css.map": "/static/css/main.17d8ffa5.chunk.css.map",
-    "static/js/2.a40c6c77.chunk.js.LICENSE.txt": "/static/js/2.a40c6c77.chunk.js.LICENSE.txt",
-    "static/media/background_image.png": "/static/media/background_image.45942a97.png",
-    "static/media/foto.jpeg": "/static/media/foto.82808fdb.jpeg"
+    "static/css/main.55f5af9b.chunk.css.map": "/static/css/main.55f5af9b.chunk.css.map",
+    "static/js/2.2d23bb6c.chunk.js.LICENSE.txt": "/static/js/2.2d23bb6c.chunk.js.LICENSE.txt",
+    "static/media/foto.jpeg": "/static/media/foto.82808fdb.jpeg",
+    "static/media/inicio-tcc.png": "/static/media/inicio-tcc.76418d6f.png",
+    "static/media/listagem-tcc.png": "/static/media/listagem-tcc.cbee3187.png",
+    "static/media/lol-detalhes-2.jpeg": "/static/media/lol-detalhes-2.a7974e70.jpeg",
+    "static/media/lol-detalhes-champ.jpeg": "/static/media/lol-detalhes-champ.656a511e.jpeg",
+    "static/media/lol-listagem-champs.jpeg": "/static/media/lol-listagem-champs.bad1399c.jpeg",
+    "static/media/lol-listagem-itens.jpeg": "/static/media/lol-listagem-itens.69b1e871.jpeg",
+    "static/media/lol-listagem-jogadores.jpeg": "/static/media/lol-listagem-jogadores.18ce253f.jpeg",
+    "static/media/lol-listagem-runas.jpeg": "/static/media/lol-listagem-runas.ffef34e0.jpeg",
+    "static/media/lol-profile.jpeg": "/static/media/lol-profile.b4a37c7d.jpeg",
+    "static/media/lol-running-game-2.jpeg": "/static/media/lol-running-game-2.fb7f108c.jpeg",
+    "static/media/lol-running-game.jpeg": "/static/media/lol-running-game.a1145b7f.jpeg",
+    "static/media/no-photo.jpg": "/static/media/no-photo.da29a691.jpg",
+    "static/media/password-tcc.png": "/static/media/password-tcc.377e41a1.png",
+    "static/media/pergunta-tcc.png": "/static/media/pergunta-tcc.241a98c2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.87831706.js",
     "static/css/2.a15da7e3.chunk.css",
-    "static/js/2.a40c6c77.chunk.js",
-    "static/css/main.17d8ffa5.chunk.css",
-    "static/js/main.58cf3de5.chunk.js"
+    "static/js/2.2d23bb6c.chunk.js",
+    "static/css/main.55f5af9b.chunk.css",
+    "static/js/main.cb1c75bf.chunk.js"
   ]
 }
