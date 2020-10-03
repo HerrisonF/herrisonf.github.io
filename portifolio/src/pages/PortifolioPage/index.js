@@ -16,7 +16,7 @@ const PortifolioPage = () => {
                     projectsData.projects.map(project => {
                         return(
                             <Row>
-                                <Col>
+                                <Col xs={12} md={6}>
                                     <Carousel>
                                         {
                                             project.images.map(id => {

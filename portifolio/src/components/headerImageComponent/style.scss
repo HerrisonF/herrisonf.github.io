@@ -1,9 +1,20 @@
+.margin-head {
+    @media(max-width: 771px) {
+        padding-bottom: 5rem;
+    }
+}
+
 #fachada .telhado{
     position: absolute;
     top: 1rem;
     background-color: #0fa08d;
     height: 100%;
     width: 130%;
+    @media(max-width: 771px) {
+        width: 185%;
+        top: 5rem;
+        height: 25rem;
+    }
   }
   #fachada .telhado::after{
     content: '';
@@ -11,55 +22,75 @@
     border-top: 20rem solid transparent;
     position: absolute;
     left: 100%;
+    @media(max-width: 771px) {
+        border-left: 0rem;
+        border-top: 0rem;
+        left: 0rem;
+        position: unset;
+    }
   }
 
 .image-formatter {
     position: relative;
     width: 20rem;
     top: 1rem;
+    @media(max-width: 771px) {
+        border-radius: 10rem;
+        width: 10rem;
+        height: 10rem;
+        left: 4rem;
+    }
 }
 
 .ajust-button {
    justify-content: flex-end;
+   margin-top: 1.5rem;
     @media(max-width: 771px) {
-        margin-top: 20px;
-        margin-left: 0px;
+        margin-top: 1rem;
+        justify-content: unset;
     }
 }
 
 .text-principal-info {
-    left: -10rem;
+    left: -11rem;
     top: 3rem;
     font-family: Helvetica, sans-serif;
     font-size: larger;
+    @media(max-width: 771px) {
+        font-size: medium;
+        left: 1.5rem;
+    }
 }
 
 .white-text-name {
     color: white;
-    font-size: 25px;
-    margin-top: -7px;
-    font-family: Comic Sans MS, Comic Sans, cursive;
     margin-left: 5px;
+    @media(max-width: 771px) {
+        font-size: medium;
+        margin-top: -1.5rem;
+        width: 100%;
+        margin-left: 4rem;
+    }
 }
 
 .white-text-job {
     color: white;
-    font-size: 35px;
-    margin-bottom: 20px;
-    font-family: cursive;
-    margin-top: 20px;
+    font-size: 2rem;
+    margin-top: 1rem;
+    @media(max-width: 771px) {
+        font-size: larger;
+        margin-top: 1rem;
+    }
 }
 
 .text {
     color: white;
-    margin-right: 5px;
+    margin-right: 0.5rem;
 }
 
-.button-cv.btn.btn-primary {
-    background-color: black;
-}
-
-.button-cv.btn.btn-primary:hover {
-    background-color:  #0fa08d;
-    border-color: white;
+.margin-detail-job {
+    padding-top: 5rem;
+    @media(max-width: 771px) {
+        padding-top: 3rem;
+    }
 }

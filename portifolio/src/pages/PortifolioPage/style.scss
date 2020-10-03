@@ -5,4 +5,8 @@
 
 .center {
     align-self: center;
+    @media(max-width: 771px) {
+        margin-left: 1rem;
+        padding-bottom: 2rem;
+    }
 }
