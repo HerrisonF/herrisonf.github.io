@@ -10,7 +10,6 @@ import './style.scss';
 const SquarePage = () => {
     return (
         <Container>
-            <Container><Row className="temp">Ainda estou desenvolvendo !</Row></Container>
             <AboutPage />
             <SliderPortifolio />
             <ResumePage />

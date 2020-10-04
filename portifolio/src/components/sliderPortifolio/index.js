@@ -28,7 +28,7 @@ const SlidePortifolio = () => {
               projectsData.projects.map(project => {
                   return(
                       <Col md={2} className="margin-cards">
-                        <SwitchImage id={project.image.imageId} />
+                        <SwitchImage id={project} />
                       </Col>
                   )
               })

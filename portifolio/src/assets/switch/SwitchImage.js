@@ -12,6 +12,14 @@ import inicioTcc from '../tcc/inicio-tcc.png';
 import listagemTcc from '../tcc/listagem-tcc.png';
 import passwordTcc from '../tcc/password-tcc.png';
 import perguntaTcc from '../tcc/pergunta-tcc.png';
+import projOi from '../proje-oi/oi-1.png';
+import projOi2 from '../proje-oi/oi-2.png';
+import meuTecnico from '../meu-tecnico/meu-tecnico.png';
+import claro1 from '../claro-lgpd/claro-1.png';
+import claro2 from '../claro-lgpd/claro-2.png';
+import cip1 from '../cip/cip-1.png';
+import cip2 from '../cip/cip-2.png';
+
 
 import { Card } from 'react-bootstrap';
 import React from 'react';
@@ -148,6 +156,76 @@ const SwitchImage = ({ id, type }) => {
                     <img
                         className="d-block w-100"
                         src={perguntaTcc}
+                        alt="First slide"
+                        />
+            )
+            case 14: 
+            return (
+                type ?
+                <Card.Img variant="top" src={meuTecnico} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={meuTecnico}
+                        alt="First slide"
+                        />
+            )
+            case 15: 
+            return (
+                type ?
+                <Card.Img variant="top" src={cip1} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={cip1}
+                        alt="First slide"
+                        />
+            )
+            case 16: 
+            return (
+                type ?
+                <Card.Img variant="top" src={cip2} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={cip2}
+                        alt="First slide"
+                        />
+            )
+            case 17: 
+            return (
+                type ?
+                <Card.Img variant="top" src={claro1} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={claro1}
+                        alt="First slide"
+                        />
+            )
+            case 18: 
+            return (
+                type ?
+                <Card.Img variant="top" src={claro2} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={claro2}
+                        alt="First slide"
+                        />
+            )
+            case 19: 
+            return (
+                type ?
+                <Card.Img variant="top" src={projOi} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={projOi}
+                        alt="First slide"
+                        />
+            )
+            case 20: 
+            return (
+                type ?
+                <Card.Img variant="top" src={projOi2} className="portifolio-slide"/> :
+                    <img
+                        className="d-block w-100"
+                        src={projOi2}
                         alt="First slide"
                         />
             )

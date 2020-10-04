@@ -3,16 +3,18 @@
         {
             "profissional": [
                 {"label":"MVC", "percent":"80"},
-                {"label":"MVP", "percent":"50"},
+                {"label":"MVP", "percent":"40"},
                 {"label":"MVVM", "percent":"30"},
                 {"label":"GIT/Flow", "percent":"80"},
                 {"label":"SQL", "percent":"60"},
                 {"label":"Noções de padrões de projeto", "percent":"60"},
+                {"label":"Android", "percent":"60"},
                 {"label":"Flutter", "percent":"60"},
                 {"label":"Ionic", "percent":"20"},
-                {"label":"Docker", "percent":"50"},
+                {"label":"Design", "percent":"40"},
+                {"label":"Docker", "percent":"40"},
                 {"label":"Kubernates", "percent":"20"},
-                {"label":"React", "percent":"70"},
+                {"label":"React", "percent":"65"},
                 {"label":"SCRUM", "percent":"90"},
                 {"label":"JIRA", "percent":"100"},
                 {"label":"Produtos(Nuvem) Oracle", "percent":"30"},
@@ -33,9 +35,9 @@
         },
         {
             "idioma": [
-                {"label":"Inglês", "percent":"60"},
-                {"label":"Francês", "percent":"5"},
-                {"label":"Japonês", "percent":"5"}
+                {"label":"Inglês", "percent":"65"},
+                {"label":"Francês", "percent":"2"},
+                {"label":"Japonês", "percent":"2"}
             ]
         }
     ]

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Row } from 'react-bootstrap';
+import { Col, Row, Button } from 'react-bootstrap';
 import { MdKeyboardBackspace } from 'react-icons/md';
 import { useHistory } from 'react-router-dom';
 import './style.scss';
@@ -13,7 +13,7 @@ const BackButtonComponent = () => {
     return (
         <Col >
             <Row>
-                <h5 onClick={() => handleClick()} className="margin-button-back"><MdKeyboardBackspace/>Voltar</h5> 
+                <Button onClick={() => handleClick()} className="margin-button-back"><MdKeyboardBackspace/>Voltar</Button> 
             </Row>
         </Col>       
     );
