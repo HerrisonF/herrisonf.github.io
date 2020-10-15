@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row } from 'react-bootstrap';
+import { Container } from 'react-bootstrap';
 import AboutPage from '../AboutPage';
 import ResumePage from '../ResumePage';
 import SliderPortifolio from '../../components/sliderPortifolio';

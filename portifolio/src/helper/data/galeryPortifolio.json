@@ -4,37 +4,43 @@
             "description" : "O aplicativo trazia informações de profile do jogador, listagem de partidas, jogadores da partida em andamento, itens e runas. Também era possível ver os detalhes do próprio perfil e o perfil de outros jogadores. Foi desenvolvido em flutter utilizando os dados da Riot e dados do site Data Dragon para as imagens. Usei esse APP para aprender flutter.",
             "images": [
                 1,2,3,4,5,6,7,8,9
-            ]
+            ],
+            "button" : "https://github.com/HerrisonF/watch_summoner"
         },
         {
             "description" : "Aplicativo em Android utilizando o Firebase como backend. Foi um APP feito como TCC. O aplicativo seguia a linha de momorização por repetição(Leitner), onde os usuários cadastravam perguntas e respostas para estudar posteriormente com o passar dos dias. O aplicativo usava o feedback do usuário em cada questão para calcular quais eram as perguntas que ele mais tinha dificuldade e apresenta-las com mais frequência para que usuário conseguisse memorizar.",
             "images": [
                 10,11,12,13
-            ]
+            ],
+            "button" : "http://luciene.pro.br/?p=58"
         },
         {
             "description" : "Participei do projeto MeuTecnico. Um aplicativo da Claro(NET) para auxiliar os técnicos na sua rotina. Com liberação de OS, rastreamento em escada, assinatura digital, entre outros.",
             "images": [
                 14
-            ]
+            ],
+            "button" : "https://play.google.com/store/apps/details?id=br.com.net.meutecnico"
         },
         {
             "description" : "Participei do Projeto de integração da CIP. O projeto consistia na integração de suas informações com utilização do OIC (Oracle Cloud Infrastructure).",
             "images": [
                 15,16
-            ]
+            ],
+            "button" : "https://www.cip-bancos.org.br/SitePages/Home.aspx"
         },
         {
             "description" : "Participei do Projeto LGPD da claro. O portal consistia em atender à lei conforme os direitos de compartilhamento de informação do usuário. Com uso do Flutter, Design System e consumo REST para construção. ",
             "images": [
                 17,18
-            ]
+            ],
+            "button" : "https://www.claro.com.br/privacidade/politica-de-privacidade"
         },
         {
             "description" : "Participei do Projeto de migração do regionalizador da OI. Consistia em transferir o regionalizador do OIC Classic para um OIC mais atualizado. As tecnologias utilizadas foram Docker e Kubernetes para integrar ao OKE do OIC, Spring e OAuth2. ",
             "images": [
                 19,20
-            ]
+            ],
+            "button" : "https://www.oi.com.br/"
         }
     ]
 }

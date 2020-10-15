@@ -10,3 +10,10 @@
         padding-bottom: 2rem;
     }
 }
+
+.margin-button {
+    margin-left: 1rem;
+    @media(max-width: 771px) {
+        margin-left: 7rem;
+    }
+}
