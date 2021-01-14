@@ -21,9 +21,9 @@ const SlidePortifolio = () => {
     };
     
     return( 
-      <Container>
+      <Container className="back-slider">
         <TextBoxSectionComponent text="Projetos"/>
-        <Row>
+        <Row className="format-slider-portifolio">
           {
               projectsData.projects.map(project => {
                   return(

@@ -18,7 +18,7 @@ const PortifolioPage = () => {
       }, []);
 
     return (
-        <Container>
+        <Container className="background-white-portifolio">
             <BackButton />
              <TextBoxSectionComponent text="Portifolio"/>
                 {

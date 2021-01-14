@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\helper",
+    "\\src\\helper\\data",
+    "\\src\\pages",
+    "\\src\\pages\\InterestPage",
+    "\\src\\pages\\PortifolioPage",
+    "\\src\\pages\\ResumePage",
+    "\\src\\pages\\SkillsPage",
+    "\\src\\pages\\SquarePage"
+  ],
+  "SelectedNode": "\\src\\pages\\ResumePage\\style.scss",
+  "PreviewInSolutionExplorer": false
+}

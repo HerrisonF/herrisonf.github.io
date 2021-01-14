@@ -9,7 +9,7 @@ import './style.scss';
 
 const InterestPage = () => {
     return(
-        <Container>
+        <Container className="background-white-interest">
             <TextBoxSectionComponent text="Interesses"/>
             <Row className="interest-cards-space">
                 <Col className="space-cards">

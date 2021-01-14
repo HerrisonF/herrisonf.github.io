@@ -1,6 +1,7 @@
 import React from 'react';
 import { Row, Col, Container } from 'react-bootstrap';
 import dataSkills from '../../helper/data/skills.json';
+import TextBoxSectionComponent from '../../components/textBoxSectionComponent';
 import ProgressBar from '../../components/progressBarComponent';
 import './style.scss';
 
@@ -8,8 +9,9 @@ const SkillComponent = () => {
     let skills = dataSkills; 
     return (
         <Container className="skillsBody" id="scrollStyle">
-            <Row>
-                <Col>
+            <TextBoxSectionComponent text="Habilidades"/>
+            <Row className="margin-to-component">
+                <Col className="margin-skill-left">
                     <Row className="subtitle-skill">Profissional</Row>
                     {
                         skills.skills[0].profissional.map(item => {

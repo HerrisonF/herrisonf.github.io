@@ -1,12 +1,13 @@
 import React from 'react';
 import { Row, Container } from 'react-bootstrap';
+import TextBoxSectionComponent from '../textBoxSectionComponent';
 import './style.scss';
 
 const AboutMeText = () => {
     return (
-        <Container>
+        <Container className="format-aboutme">
             <Row>
-            <span className="text-green">Desenvolvedor Mobile e aspirante à outras tecnologias de Front e Backend. Pretendo fazer a diferença por meio das minhas soluções criativas. </span>   
+                <span className="text-green">Desenvolvedor Mobile e aspirante à outras tecnologias de Front e Backend. Pretendo fazer a diferença por meio das minhas soluções criativas. </span>   
             </Row>
             <Row>
                 <p>Olá, minha experiência como desenvolvedor iniciou-se em Delphi, presencial e Home-Office na área de automação Fiscal e refatoração. Mas atualmente, minhas atenção se voltam ao desenvolvimento Mobile. </p>

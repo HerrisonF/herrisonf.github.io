@@ -5,11 +5,9 @@ import './style.scss';
 
 const TextBoxSection = ({text}) => {
     return (
-        <Container className="margin-text-top">
-            <Row className="about-me-text">
-                {text}
-            </Row>
-        </Container>
+        <Row className="about-me-text">
+            {text}
+        </Row>
     );
 }
 
