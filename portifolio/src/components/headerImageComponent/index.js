@@ -6,15 +6,15 @@ import './style.scss';
 const HeaderImage = () => {
     return (
         <Row className="head">
-            <Col xs={6} md={6}>
+            <Col xs={6} md={4}>
                 <img src={foto} className="image-formatter" alt="Imagem pessoal, Herrison"/>
             </Col>
-            <Col xs={12} md={6} className="text-principal-info"> 
-                <Row>Olá, sou <span className="white-text-name">Herrison Féres</span></Row>
-                <Row className="white-text-job"> Analista de sistemas </Row>
-                <Row><span className="text">Idade:</span>{(new Date().getFullYear() - 1997)}</Row>
-                <Row><span className="text">Endereço:</span>São José do Rio Preto,São Paulo</Row>
-                <Row><span className="text">E-mail:</span>HerrisonF_nascimento@hotmail.com</Row> 
+            <Col xs={12} md={8} className="text-principal-info"> 
+                    <div className="white-text-name">Herrison Féres</div>
+                    <div className="white-text-job"> Analista de sistemas </div>
+                    <div><span className="text">Idade:</span><span className="text-description">{(new Date().getFullYear() - 1997)} </span></div>
+                    <div><span className="text">Endereço:</span><span className="text-description">São José do Rio Preto,São Paulo</span></div>
+                    <div><span className="text">E-mail:</span><span className="text-description">HerrisonF_nascimento@hotmail.com</span></div>
             </Col>
         </Row>
     );

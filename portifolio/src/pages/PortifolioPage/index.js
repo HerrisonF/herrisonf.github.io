@@ -18,9 +18,10 @@ const PortifolioPage = () => {
       }, []);
 
     return (
-        <Container className="background-white-portifolio">
+        <Container className="outside">
             <BackButton />
-             <TextBoxSectionComponent text="Portifolio"/>
+            <TextBoxSectionComponent text="Portifolio"/>
+            <Row className="background-white-portifolio">
                 {
                     projectsData.projects.map(project => {
                         return(
@@ -54,6 +55,7 @@ const PortifolioPage = () => {
                         )
                     })
                 }
+            </Row>
         </Container>
     );
 };
