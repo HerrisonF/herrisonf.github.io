@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.250af088.chunk.css",
-    "main.js": "/static/js/main.5467f382.chunk.js",
-    "main.js.map": "/static/js/main.5467f382.chunk.js.map",
+    "main.css": "/static/css/main.33eea6d7.chunk.css",
+    "main.js": "/static/js/main.44b4b571.chunk.js",
+    "main.js.map": "/static/js/main.44b4b571.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87831706.js",
     "runtime-main.js.map": "/static/js/runtime-main.87831706.js.map",
     "static/css/2.a15da7e3.chunk.css": "/static/css/2.a15da7e3.chunk.css",
     "static/js/2.6eaa97bb.chunk.js": "/static/js/2.6eaa97bb.chunk.js",
     "static/js/2.6eaa97bb.chunk.js.map": "/static/js/2.6eaa97bb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.55f2e03b93d293c9a06a18f0736ee91f.js": "/precache-manifest.55f2e03b93d293c9a06a18f0736ee91f.js",
+    "precache-manifest.d301c223adb5ba60926fe64686df76ae.js": "/precache-manifest.d301c223adb5ba60926fe64686df76ae.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a15da7e3.chunk.css.map": "/static/css/2.a15da7e3.chunk.css.map",
-    "static/css/main.250af088.chunk.css.map": "/static/css/main.250af088.chunk.css.map",
+    "static/css/main.33eea6d7.chunk.css.map": "/static/css/main.33eea6d7.chunk.css.map",
     "static/js/2.6eaa97bb.chunk.js.LICENSE.txt": "/static/js/2.6eaa97bb.chunk.js.LICENSE.txt",
     "static/media/cip-1.png": "/static/media/cip-1.7010650b.png",
     "static/media/cip-2.png": "/static/media/cip-2.61bae100.png",
     "static/media/claro-1.png": "/static/media/claro-1.6f0501c2.png",
     "static/media/claro-2.png": "/static/media/claro-2.00feb67f.png",
-    "static/media/foto.jpeg": "/static/media/foto.82808fdb.jpeg",
+    "static/media/foto.png": "/static/media/foto.68fbe224.png",
     "static/media/inicio-tcc.png": "/static/media/inicio-tcc.76418d6f.png",
     "static/media/listagem-tcc.png": "/static/media/listagem-tcc.cbee3187.png",
     "static/media/lol-detalhes-2.jpeg": "/static/media/lol-detalhes-2.a7974e70.jpeg",
@@ -41,7 +41,7 @@
     "static/js/runtime-main.87831706.js",
     "static/css/2.a15da7e3.chunk.css",
     "static/js/2.6eaa97bb.chunk.js",
-    "static/css/main.250af088.chunk.css",
-    "static/js/main.5467f382.chunk.js"
+    "static/css/main.33eea6d7.chunk.css",
+    "static/js/main.44b4b571.chunk.js"
   ]
 }
