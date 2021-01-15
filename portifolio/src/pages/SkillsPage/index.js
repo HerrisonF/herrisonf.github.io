@@ -11,7 +11,7 @@ const SkillComponent = () => {
         <Container className="skillsBody" id="scrollStyle">
             <TextBoxSectionComponent text="Habilidades"/>
             <Row className="margin-to-component">
-                <Col className="margin-skill-left">
+                <Col>
                     <Row className="subtitle-skill">Profissional</Row>
                     {
                         skills.skills[0].profissional.map(item => {

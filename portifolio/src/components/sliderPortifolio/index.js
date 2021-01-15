@@ -14,7 +14,7 @@ const SlidePortifolio = () => {
            <Button 
               className="button-see-more"
             >
-              Mais projetos
+              Ver mais projetos
             </Button> 
         </Link>
       );

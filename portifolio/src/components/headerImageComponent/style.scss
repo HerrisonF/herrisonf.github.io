@@ -1,5 +1,5 @@
 .head {
-    background-color: #0fa08d;
+    background-image: linear-gradient(to right, #003b33, #0fa08d);
     @media(max-width: 771px) {
         padding-top: 1.5rem;
         padding-bottom: 5rem;
@@ -40,25 +40,85 @@
     font-size: 50px;
     font-weight: bold;
     @media(max-width: 771px) {
-        font-size: medium;
+        font-size: 30px;
+        text-align: center;
+    }
+    @media(max-width: 991px) {
+        font-size: 2.5rem;
+        text-align: center;
     }
 }
 
-.white-text-job {
+.text-job {
     color: black;
-    font-size: 2rem;
-    margin-bottom: 2rem;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
     @media(max-width: 771px) {
-        font-size: larger;
+        font-size: 1.3rem;
         margin-top: 1rem;
+        text-align: center;
+    }
+
+    @media(max-width: 991px) {
+        font-size: 1.5rem;
+        text-align: center;
     }
 }
 
 .text-description {
-    color: black;
+    color: #000000;
     word-break: break-all;
+    @media(max-width: 991px) {
+        font-size: 1.1rem;
+        text-align: center;
+    }
 }
 
 .text {
+    color: #ffffff;
     margin-right: 0.5rem;
+    font-size: 1.1rem;
+    @media(max-width: 991px) {
+        font-size: 1.1rem;
+        text-align: center;
+    }
+}
+
+.personal-info {
+    @media(max-width: 991px) {
+        margin-left: 1.2rem;
+        font-size: 1.1rem;
+        text-align: center;
+    }
+}
+
+.icons-config {
+    padding-top: 0.3rem;
+    @media(max-width: 771px) {
+        margin-top: 0.5rem;
+    }
+    @media(max-width: 991px) {
+        padding-left: 10rem;
+    }
+    @media(max-width: 671px) {
+        padding-left: 8rem;
+        padding-top: 1rem
+    }
+}
+
+.linkedin-icon {
+    color: #ffffff;
+    margin-right: 1rem;
+    margin-left: 1rem;
+}
+.linkedin-icon:hover{
+    color: rgb(19, 129, 255);
+}
+
+.github-icon {
+    color: rgb(0, 0, 0);
+}
+
+.github-icon:hover {
+    color: rgb(255, 255, 255);
 }
