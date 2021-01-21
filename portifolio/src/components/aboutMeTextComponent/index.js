@@ -10,9 +10,9 @@ const AboutMeText = () => {
             </Row>
             <Row>
                 <p>Minha experiência com desenvolvimento profissional iniciou-se em Delphi na área de automação fiscal e refatoração. Atualmente, minhas atenções se voltaram ao desenvolvimento Mobile por gostos pessoais e necessidades profissionais. </p>
-                <p>Alguns de meus conhecimentos: Desenvolvimento Back-end e Front-End; Programação MVC, MVP e MVVM; Utilização de práticas Clean Code; Conhecimento de Git/Flow, SQL, Noções de Padrões de Projeto, Flutter, Ionic, Docker, Kubernetes, React, SCRUM, JIRA, produtos Oracle e AWS.</p>
+                <p>Alguns de meus conhecimentos: Desenvolvimento Back-end e Front-End; Programação MVC, MVP e MVVM; Utilização de práticas Clean Code; Conhecimento de Git/Flow, SQL, Noções de Padrões de Projeto, Flutter, Docker, Kubernetes, React, SCRUM, JIRA, produtos Oracle e AWS.</p>
                 <p>Alguns projetos em que participei: Automação de comércios(Delphi, Desktop), Aplicativo Meu Técnico(Claro, Mobile), Portal LGPD(Claro, React), Migração do regionalizador da OI(OI, Oracle Infrastructure Cloud), Integração CIP(CIP, Oracle Cloud) entre outros.</p>
-                <p>Apesar da experiência em outras áreas, tenho preferência e maior domínio na plataforma mobile. Minhas perspectivas para o futuro são: Continuação e aprimoramento do meu conhecimento em mobile. </p>
+                <p>Apesar da experiência em outras áreas, tenho preferência e maior domínio na plataforma mobile. Minha perspectiva para o futuro é o aprimoramento do meu conhecimento em mobile. </p>
             </Row>
         </Container>  
     );
