@@ -5,7 +5,7 @@
             "images": [
                 1,2,3,4,5,6,7,8,9
             ],
-            "button" : "https://github.com/HerrisonF/watch_summoner"
+            "button" : "https://github.com/HerrisonF/watch_summoner/tree/develop"
         },
         {
             "description" : "Aplicativo em Android utilizando o Firebase. Foi um APP para meu TCC. O aplicativo seguia a linha de momorização por repetição(Leitner), onde os usuários cadastravam perguntas e respostas para estudar posteriormente com o passar dos dias. O aplicativo usava o feedback do usuário em cada questão para calcular quais eram as perguntas que ele mais tinha dificuldade e apresenta-las com mais frequência para que usuário conseguisse memorizar.",
