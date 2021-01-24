@@ -1,10 +1,17 @@
 import React from 'react';
 import { Row, Col} from 'react-bootstrap';
 import foto from './../../assets/foto.png';
-import { SiLinkedin, SiGithub } from 'react-icons/si';
+import { SiLinkedin, SiGithub, SiReadthedocs } from 'react-icons/si';
 import './style.scss';
+import pdfFile from './../../assets/Curriculo_2021.pdf'
 
 const HeaderImage = () => {
+    
+    const handlePrintPDF = (event) => {
+        event.preventDefault();
+        window.open(pdfFile, "PRINT");
+      };
+
     return (
         <Row className="head">
             <Col xs={6} md={4}>
@@ -24,6 +31,9 @@ const HeaderImage = () => {
                         </a>
                         <a className="github-icon"  href="https://github.com/HerrisonF">
                             <SiGithub />
+                        </a>
+                        <a className="curriculum-icon"  onClick={(e) => handlePrintPDF(e)} href="">
+                            <SiReadthedocs /> Currículo
                         </a>
                     </Row>
             </Col>
