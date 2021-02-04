@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ac536962e9684f63a73109720a7d318",
+    "revision": "93e968c0be13a0147330b6b4f264e731",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.a15da7e3.chunk.css"
   },
   {
-    "revision": "1f9a2819ca0652d41189",
+    "revision": "fa05b0369522bcbd6b8b",
     "url": "/static/css/main.f69e971b.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c4fb37eb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1f9a2819ca0652d41189",
-    "url": "/static/js/main.574aadc4.chunk.js"
+    "revision": "fa05b0369522bcbd6b8b",
+    "url": "/static/js/main.a9871ff9.chunk.js"
   },
   {
     "revision": "8f2579ff55bd5aa1997a",
     "url": "/static/js/runtime-main.87831706.js"
   },
   {
-    "revision": "dc16dd7b89212331cddcd8a683677326",
-    "url": "/static/media/Curriculo_2021.dc16dd7b.pdf"
+    "revision": "1b0ad628cc1bc09629091c6c67793871",
+    "url": "/static/media/Curriculo_2021.1b0ad628.pdf"
   },
   {
     "revision": "7010650b26b29e895dababf8485bc190",

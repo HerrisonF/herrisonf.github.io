@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.f69e971b.chunk.css",
-    "main.js": "/static/js/main.574aadc4.chunk.js",
-    "main.js.map": "/static/js/main.574aadc4.chunk.js.map",
+    "main.js": "/static/js/main.a9871ff9.chunk.js",
+    "main.js.map": "/static/js/main.a9871ff9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87831706.js",
     "runtime-main.js.map": "/static/js/runtime-main.87831706.js.map",
     "static/css/2.a15da7e3.chunk.css": "/static/css/2.a15da7e3.chunk.css",
     "static/js/2.c4fb37eb.chunk.js": "/static/js/2.c4fb37eb.chunk.js",
     "static/js/2.c4fb37eb.chunk.js.map": "/static/js/2.c4fb37eb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.3eda8b0be61b88cb1110320514ad7cda.js": "/precache-manifest.3eda8b0be61b88cb1110320514ad7cda.js",
+    "precache-manifest.efafadbbbeb4d967d818feeef6ee9956.js": "/precache-manifest.efafadbbbeb4d967d818feeef6ee9956.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a15da7e3.chunk.css.map": "/static/css/2.a15da7e3.chunk.css.map",
     "static/css/main.f69e971b.chunk.css.map": "/static/css/main.f69e971b.chunk.css.map",
     "static/js/2.c4fb37eb.chunk.js.LICENSE.txt": "/static/js/2.c4fb37eb.chunk.js.LICENSE.txt",
-    "static/media/Curriculo_2021.pdf": "/static/media/Curriculo_2021.dc16dd7b.pdf",
+    "static/media/Curriculo_2021.pdf": "/static/media/Curriculo_2021.1b0ad628.pdf",
     "static/media/cip-1.png": "/static/media/cip-1.7010650b.png",
     "static/media/cip-2.png": "/static/media/cip-2.61bae100.png",
     "static/media/claro-1.png": "/static/media/claro-1.6f0501c2.png",
@@ -43,6 +43,6 @@
     "static/css/2.a15da7e3.chunk.css",
     "static/js/2.c4fb37eb.chunk.js",
     "static/css/main.f69e971b.chunk.css",
-    "static/js/main.574aadc4.chunk.js"
+    "static/js/main.a9871ff9.chunk.js"
   ]
 }
