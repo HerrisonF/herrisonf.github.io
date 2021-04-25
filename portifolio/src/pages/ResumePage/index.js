@@ -15,9 +15,9 @@ const ResumePage = () => {
             <VerticalTimeline>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
-                    contentArrowStyle={{ borderRight: '7px solid  rgb(33, 150, 243)' }}
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2018 - Atual"
-                    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
                     <h3 className="vertical-timeline-element-title">Analista de Sistemas / Desenvolvedor Mobile</h3>
@@ -31,8 +31,9 @@ const ResumePage = () => {
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2018 - 2018"
-                    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
                     <h3 className="vertical-timeline-element-title">Desenvolvedor Junior</h3>
@@ -44,7 +45,7 @@ const ResumePage = () => {
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     date="2017 - 2018"
-                    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
                     <h3 className="vertical-timeline-element-title">Estágio</h3>
@@ -56,8 +57,9 @@ const ResumePage = () => {
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2006 - 2008"
-                    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
                     <h3 className="vertical-timeline-element-title">Estágio</h3>
@@ -69,8 +71,9 @@ const ResumePage = () => {
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--education"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2014 - 2015"
-                    iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
                     <h3 className="vertical-timeline-element-title">Almoxarife</h3>
@@ -81,8 +84,9 @@ const ResumePage = () => {
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--education"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2016 - 2019"
-                    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<FaUserGraduate />}
                 >
                     <h3 className="vertical-timeline-element-title">Instituto Federal de Educação, Ciência e Tecnologia de São Paulo</h3>
@@ -94,8 +98,9 @@ const ResumePage = () => {
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--education"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2015 - 2015"
-                    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<FaUserGraduate />}
                 >
                     <h3 className="vertical-timeline-element-title">Objetiva cursos Profissionalizantes</h3>
@@ -106,8 +111,9 @@ const ResumePage = () => {
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--education"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
                     date="2012 - 2013"
-                    iconStyle={{ background: 'rgb(233, 30, 99)', color: '#fff' }}
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<FaUserGraduate />}
                 >
                     <h3 className="vertical-timeline-element-title">Escola Técnica Estadual</h3>

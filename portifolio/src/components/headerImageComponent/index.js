@@ -1,5 +1,5 @@
 import React from 'react';
-import { Row, Col} from 'react-bootstrap';
+import { Row, Col, Button} from 'react-bootstrap';
 import foto from './../../assets/foto.png';
 import { SiLinkedin, SiGithub, SiReadthedocs, SiYoutube } from 'react-icons/si';
 import './style.scss';
@@ -21,23 +21,23 @@ const HeaderImage = () => {
                     <div className="white-text-name">Herrison Féres</div>
                     <div className="text-job"> Analista de Sistemas / Desenvolvedor Mobile </div>
                     <div className="personal-info">
-                        <div><span className="text">Idade:</span><span className="text-description">{(new Date().getFullYear() - 1997)} </span></div>
-                        <div><span className="text">End:</span><span className="text-description">São José do Rio Preto,São Paulo</span></div>
-                        <div><span className="text">E-mail:</span><span className="text-description">HerrisonF_nascimento@hotmail.com</span></div>
+                        <div><span className="text-description">{(new Date().getFullYear() - 1997)}</span><span className="text"> anos</span></div>
+                        <div><span className="text-description">São José do Rio Preto,São Paulo</span></div>
+                        <div><span className="text-description">HerrisonF_nascimento@hotmail.com</span></div>
                     </div>
                     <Row className="icons-config">
-                        <a className="linkedin-icon" href="https://www.linkedin.com/in/herrison-f%C3%A9res-423023103/"> 
-                            <SiLinkedin />
+                        <a href="https://www.linkedin.com/in/herrison-f%C3%A9res-423023103/"> 
+                            <SiLinkedin className="linkedin-icon" />
                         </a>
-                        <a className="github-icon"  href="https://github.com/HerrisonF">
-                            <SiGithub />
+                        <a href="https://github.com/HerrisonF">
+                            <SiGithub className="github-icon"/>
                         </a>
-                        <a className="youtube-icon"  href="https://www.youtube.com/channel/UCWcJHypnsac0_E_YsOaFApA">
-                            <SiYoutube />
+                        <a href="https://www.youtube.com/channel/UCWcJHypnsac0_E_YsOaFApA">
+                            <SiYoutube className="youtube-icon" />
                         </a>
-                        <a className="curriculum-icon"  onClick={(e) => handlePrintPDF(e)} href="null">
-                            <SiReadthedocs /> Currículo
-                        </a>
+                        <Button className="curriculo-button" onClick={(e) => handlePrintPDF(e)} href="null">
+                            <SiReadthedocs className="curriculum-icon" /> <span className="text-description">Currículo</span>
+                        </Button>
                     </Row>
             </Col>
         </Row>

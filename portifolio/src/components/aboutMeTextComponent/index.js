@@ -6,7 +6,7 @@ const AboutMeText = () => {
     return (
         <Container className="format-aboutme">
             <Row>
-                <span className="text-green">Desenvolvedor Mobile e aspirante à tecnologias como Flutter, Android, IOS. Pretendo fazer a diferença por meio das minhas soluções criativas. </span>   
+                <span className="text-green">Desenvolvedor Mobile em à tecnologias como Flutter, Android, Java. Pretendo fazer a diferença por meio das minhas soluções criativas. </span>   
             </Row>
             <Row>
                 <p>Minha experiência com desenvolvimento profissional iniciou-se em Delphi na área de automação fiscal e refatoração. Atualmente, meu foco de carreira está sendo o desenvolvimento Mobile. </p>
