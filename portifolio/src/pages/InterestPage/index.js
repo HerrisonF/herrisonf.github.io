@@ -3,7 +3,7 @@ import { Container, Row, Col } from 'react-bootstrap';
 import Flippy, { FrontSide, BackSide } from 'react-flippy';
 import TextBoxSectionComponent from '../../components/textBoxSectionComponent';
 import { GiDiceSixFacesSix } from "react-icons/gi";
-import { FaMoneyBillWave, FaBookOpen, FaBook, FaUtensils, FaUserNinja } from "react-icons/fa";
+import { FaMoneyBillWave, FaBookOpen, FaBook, FaUserNinja } from "react-icons/fa";
 
 import './style.scss';
 
@@ -68,22 +68,7 @@ const InterestPage = () => {
                             <div className="text-formatter">Estudos</div>
                         </FrontSide>
                         <BackSide className="inside-card-formatter">
-                            <div className="text-formatter-back"> As vezes chato, as vezes não </div>
-                        </BackSide>
-                    </Flippy>
-                </Col>
-                <Col className="space-cards">
-                    <Flippy
-                    flipOnHover={true}
-                    flipDirection="horizontal"
-                    className="card-formatter" /// these are optional style, it is not necessary
-                    >
-                        <FrontSide className="inside-card-formatter">
-                            < FaUtensils className="icon-formatter"/>
-                            <div className="text-formatter">Pratos</div>
-                        </FrontSide>
-                        <BackSide className="inside-card-formatter">
-                            <div className="text-formatter-back"> Coxinha e Açai sempre. </div>
+                            <div className="text-formatter-back"> Conhecimento nunca é demais </div>
                         </BackSide>
                     </Flippy>
                 </Col>

@@ -1,7 +1,7 @@
 import React from 'react';
 import { Row, Col} from 'react-bootstrap';
 import foto from './../../assets/foto.png';
-import { SiLinkedin, SiGithub, SiReadthedocs } from 'react-icons/si';
+import { SiLinkedin, SiGithub, SiReadthedocs, SiYoutube } from 'react-icons/si';
 import './style.scss';
 import pdfFile from './../../assets/Curriculo_2021.pdf'
 
@@ -19,7 +19,7 @@ const HeaderImage = () => {
             </Col>
             <Col xs={12} md={8} className="text-principal-info"> 
                     <div className="white-text-name">Herrison Féres</div>
-                    <div className="text-job"> Analista de sistemas </div>
+                    <div className="text-job"> Analista de Sistemas / Desenvolvedor Mobile </div>
                     <div className="personal-info">
                         <div><span className="text">Idade:</span><span className="text-description">{(new Date().getFullYear() - 1997)} </span></div>
                         <div><span className="text">End:</span><span className="text-description">São José do Rio Preto,São Paulo</span></div>
@@ -32,7 +32,10 @@ const HeaderImage = () => {
                         <a className="github-icon"  href="https://github.com/HerrisonF">
                             <SiGithub />
                         </a>
-                        <a className="curriculum-icon"  onClick={(e) => handlePrintPDF(e)} href="">
+                        <a className="youtube-icon"  href="https://www.youtube.com/channel/UCWcJHypnsac0_E_YsOaFApA">
+                            <SiYoutube />
+                        </a>
+                        <a className="curriculum-icon"  onClick={(e) => handlePrintPDF(e)} href="null">
                             <SiReadthedocs /> Currículo
                         </a>
                     </Row>

@@ -2,20 +2,20 @@
     "skills": [
         {
             "profissional": [
-                {"label":"MVC", "percent":"80"},
-                {"label":"MVP", "percent":"40"},
+                {"label":"MVC", "percent":"100"},
+                {"label":"MVP", "percent":"50"},
                 {"label":"MVVM", "percent":"30"},
                 {"label":"GIT/Flow", "percent":"80"},
                 {"label":"SQL", "percent":"60"},
-                {"label":"Noções de padrões de projeto", "percent":"60"},
+                {"label":"Noções de padrões de projeto", "percent":"70"},
                 {"label":"Android", "percent":"60"},
-                {"label":"Flutter", "percent":"60"},
+                {"label":"Flutter", "percent":"80"},
                 {"label":"Ionic", "percent":"20"},
-                {"label":"Design", "percent":"40"},
-                {"label":"Docker", "percent":"40"},
+                {"label":"Design", "percent":"50"},
+                {"label":"Docker", "percent":"30"},
                 {"label":"Kubernates", "percent":"20"},
                 {"label":"React", "percent":"65"},
-                {"label":"SCRUM", "percent":"90"},
+                {"label":"SCRUM", "percent":"100"},
                 {"label":"JIRA", "percent":"100"},
                 {"label":"Produtos(Nuvem) Oracle", "percent":"30"},
                 {"label":"AWS", "percent":"10"}
@@ -24,19 +24,18 @@
         {
             "pessoal": [
                 {"label":"Comprometimento", "percent":"100"},
-                {"label":"Pontual", "percent":"95"},
-                {"label":"Liderança", "percent":"65"},
+                {"label":"Pontualidade", "percent":"100"},
+                {"label":"Liderança", "percent":"70"},
                 {"label":"Comunicativo", "percent":"80"},
                 {"label":"Habilidade Analítica", "percent":"90"},
                 {"label":"Flexbilidade", "percent":"90"},
                 {"label":"Autoconfiança", "percent":"70"},
-                {"label":"Iniciativa", "percent":"85"}
+                {"label":"Iniciativa", "percent":"80"}
             ]
         },
         {
             "idioma": [
-                {"label":"Inglês", "percent":"65"},
-                {"label":"Mandarim", "percent":"1"},
+                {"label":"Inglês", "percent":"70"},
                 {"label":"Japonês", "percent":"3"}
             ]
         }

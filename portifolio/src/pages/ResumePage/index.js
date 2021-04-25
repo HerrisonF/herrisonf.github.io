@@ -20,7 +20,7 @@ const ResumePage = () => {
                     iconStyle={{ background: 'rgb(33, 150, 243)', color: '#fff' }}
                     icon={<BiBriefcase />}
                 >
-                    <h3 className="vertical-timeline-element-title">Analista de Sistemas</h3>
+                    <h3 className="vertical-timeline-element-title">Analista de Sistemas / Desenvolvedor Mobile</h3>
                     <h4 className="vertical-timeline-element-subtitle">Accurate Software</h4>
                     <p>
                         Desenvolvimento Full Stack, GIT, SCRUM,
