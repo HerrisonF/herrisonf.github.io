@@ -32,7 +32,7 @@ const HeaderImage = () => {
                         <a href="https://github.com/HerrisonF">
                             <SiGithub className="github-icon"/>
                         </a>
-                        <a href="https://www.youtube.com/channel/UCWcJHypnsac0_E_YsOaFApA">
+                        <a href="https://www.youtube.com/channel/UCDB8iUDSics-TeiscSknL4A">
                             <SiYoutube className="youtube-icon" />
                         </a>
                         <Button className="curriculo-button" onClick={(e) => handlePrintPDF(e)} href="null">
