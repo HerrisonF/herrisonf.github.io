@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.e12b1897.chunk.css",
-    "main.js": "/static/js/main.318375d4.chunk.js",
-    "main.js.map": "/static/js/main.318375d4.chunk.js.map",
+    "main.js": "/static/js/main.41706e78.chunk.js",
+    "main.js.map": "/static/js/main.41706e78.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87831706.js",
     "runtime-main.js.map": "/static/js/runtime-main.87831706.js.map",
     "static/css/2.a15da7e3.chunk.css": "/static/css/2.a15da7e3.chunk.css",
-    "static/js/2.60b3b721.chunk.js": "/static/js/2.60b3b721.chunk.js",
-    "static/js/2.60b3b721.chunk.js.map": "/static/js/2.60b3b721.chunk.js.map",
+    "static/js/2.711e6488.chunk.js": "/static/js/2.711e6488.chunk.js",
+    "static/js/2.711e6488.chunk.js.map": "/static/js/2.711e6488.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.fa975514d36a6dc6cfdd939fae6acf6e.js": "/precache-manifest.fa975514d36a6dc6cfdd939fae6acf6e.js",
+    "precache-manifest.c17f72cbfbcf406191e3c6918b9f096c.js": "/precache-manifest.c17f72cbfbcf406191e3c6918b9f096c.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a15da7e3.chunk.css.map": "/static/css/2.a15da7e3.chunk.css.map",
     "static/css/main.e12b1897.chunk.css.map": "/static/css/main.e12b1897.chunk.css.map",
-    "static/js/2.60b3b721.chunk.js.LICENSE.txt": "/static/js/2.60b3b721.chunk.js.LICENSE.txt",
+    "static/js/2.711e6488.chunk.js.LICENSE.txt": "/static/js/2.711e6488.chunk.js.LICENSE.txt",
     "static/media/Curriculo_2021.pdf": "/static/media/Curriculo_2021.1b0ad628.pdf",
     "static/media/cip-1.png": "/static/media/cip-1.7010650b.png",
     "static/media/cip-2.png": "/static/media/cip-2.61bae100.png",
@@ -31,6 +31,7 @@
     "static/media/lol-profile.jpeg": "/static/media/lol-profile.b4a37c7d.jpeg",
     "static/media/lol-running-game-2.jpeg": "/static/media/lol-running-game-2.fb7f108c.jpeg",
     "static/media/lol-running-game.jpeg": "/static/media/lol-running-game.a1145b7f.jpeg",
+    "static/media/mambo-1.png": "/static/media/mambo-1.e89081af.png",
     "static/media/meu-tecnico.png": "/static/media/meu-tecnico.9d6c98d2.png",
     "static/media/no-photo.jpg": "/static/media/no-photo.da29a691.jpg",
     "static/media/oi-1.png": "/static/media/oi-1.5012589a.png",
@@ -41,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.87831706.js",
     "static/css/2.a15da7e3.chunk.css",
-    "static/js/2.60b3b721.chunk.js",
+    "static/js/2.711e6488.chunk.js",
     "static/css/main.e12b1897.chunk.css",
-    "static/js/main.318375d4.chunk.js"
+    "static/js/main.41706e78.chunk.js"
   ]
 }
