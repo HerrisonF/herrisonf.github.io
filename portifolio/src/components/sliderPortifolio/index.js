@@ -2,12 +2,16 @@ import React from 'react';
 import { Container, Button, Row, Col } from 'react-bootstrap';
 import { Link } from 'react-router-dom';
 import TextBoxSectionComponent from '../../components/textBoxSectionComponent';
-import projectsData from '../../helper/data/homePortifolio.json';
+import projects from '../../helper/data/galeryPortifolio.json';
 import SwitchImage from '../../assets/switch/SwitchImage';
 
 import './style.scss';
 
 const SlidePortifolio = () => {
+  const navigate = link => {
+    window.location.href = link;
+}
+
     const SentToPortifolio = () => {
       return (
         <Link to="/portifolio" >
@@ -25,10 +29,10 @@ const SlidePortifolio = () => {
         <TextBoxSectionComponent text="Projetos"/>
         <Row className="format-slider-portifolio">
           {
-              projectsData.projects.map(project => {
+              projects.projects.map(project => {
                   return(
-                      <Col md={2} className="margin-cards">
-                        <SwitchImage id={project} />
+                      <Col md={2} className="margin-cards" onClick={()=> navigate(project.button)}>
+                        <SwitchImage id={project.images[0]}/>
                       </Col>
                   )
               })

@@ -13,10 +13,23 @@ const ResumePage = () => {
         <Container className="margin-top-resume">
             <TextBoxSectionComponent text="Experiência"/>
             <VerticalTimeline>
+            <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
+                    date="2021 - Atual"
+                    iconStyle={{ background: 'black', color: '#ffa500' }}
+                    icon={<BiBriefcase />}
+                >
+                    <h3 className="vertical-timeline-element-title">Desenvolvedor Mobile Senior</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Avanade Software</h4>
+                    <p>
+                       Home Office - Desenvolvimento Android.  
+                    </p>
+                </VerticalTimelineElement>
                 <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     contentArrowStyle={{ borderRight: '7px solid  orange' }}
-                    date="2018 - Atual"
+                    date="2018 - 2021"
                     iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
@@ -24,7 +37,7 @@ const ResumePage = () => {
                     <h4 className="vertical-timeline-element-subtitle">Accurate Software</h4>
                     <p>
                         Desenvolvimento Full Stack, GIT, SCRUM,
-                        JIRA, Squads. Projetos: Claro (App Meu Técnico): Android, Ionic, padrão MVVM e Clouds MC(Oracle), AWS(Amazon).
+                        JIRA, Squads. Projetos: Mambo Delivery (Flutter), Claro (App Meu Técnico): Android, Ionic, padrão MVVM e Clouds MC(Oracle), AWS(Amazon).
                         Consultor Oracle (CIP) com uso do OIC(Oracle Integration Cloud) ; Migração back e front OI com do Oracle Cloud (OKE), Kubernetes, Docker; 
                         Claro (Portal LGPD) React, HTML, CSS;  
                     </p>
@@ -36,7 +49,7 @@ const ResumePage = () => {
                     iconStyle={{ background: 'black', color: '#ffa500' }}
                     icon={<BiBriefcase />}
                 >
-                    <h3 className="vertical-timeline-element-title">Desenvolvedor Junior</h3>
+                    <h3 className="vertical-timeline-element-title">Desenvolvedor</h3>
                     <h4 className="vertical-timeline-element-subtitle">HQ Softwares</h4>
                     <p>
                         Home Office - Análise de requisitos, Automação, MSS, Tortoise e uso da Linguagem Delphi.

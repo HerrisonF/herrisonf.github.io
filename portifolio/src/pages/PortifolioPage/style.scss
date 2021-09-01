@@ -2,6 +2,9 @@
     background-color: white;
     padding-top: 2rem;
     padding-left: 1rem;
+    @media(max-width: 771px) {
+        padding-right: 1rem;
+    }
 }
 
 .outside {
@@ -28,7 +31,8 @@
     margin-left: 15rem;
     margin-top: 3rem;
     @media(max-width: 771px) {
-        margin-left: 7rem;
+        margin-top: 1rem;
+        margin-left: 1rem;
     }
 }
 

@@ -1,6 +1,13 @@
 {
     "projects": [
         {
+            "description" : "Aplicativo de E-commerce desenvolvido para o supermercado Mambo. Atuei como líder técnico no projeto após indicar a tecnologia do Flutter. Neste, trabalhei no desenvolvimento, criação de tasks, escolhendo prioridades e delegando tasks. Primeira versão em 5 meses. Tecs: Flutter, MOBX, GETIT.",
+            "images": [
+                21
+            ],
+            "button" : "https://play.google.com/store/apps/details?id=br.com.app.mambodelivery" 
+        },
+        {
             "description" : "No aplicativo era possível ver informações de profile do jogador, listagem de partidas, jogadores com partida em andamento, itens e runas. Também tinha opções para ver o próprio perfil e o perfil de outros jogadores. Foi desenvolvido em flutter utilizando os dados da Riot e dados do site Data Dragon para as imagens. APP utilizado para aprender flutter.",
             "images": [
                 1,2,3,4,5,6,7,8,9

@@ -19,7 +19,7 @@ import claro1 from '../claro-lgpd/claro-1.png';
 import claro2 from '../claro-lgpd/claro-2.png';
 import cip1 from '../cip/cip-1.png';
 import cip2 from '../cip/cip-2.png';
-
+import mambo from '../mambo/mambo-1.png';
 
 import { Card } from 'react-bootstrap';
 import React from 'react';
@@ -287,6 +287,19 @@ const SwitchImage = ({ id, type }) => {
                         alt="First slide"
                     />
                     <span className="format-text-under-images">Regionalizador OI</span>
+                </div>
+            )
+            case 21: 
+            return (
+                type ?
+                <Card.Img variant="top" src={mambo} className="portifolio-slide"/> :
+                <div>
+                    <img
+                        className="d-block w-100"
+                        src={mambo}
+                        alt="First slide"
+                    />
+                    <span className="format-text-under-images">Mambo Delivery</span>
                 </div>
             )
         default: 
