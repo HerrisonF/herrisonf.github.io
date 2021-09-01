@@ -3,7 +3,7 @@ import { Row, Col, Button} from 'react-bootstrap';
 import foto from './../../assets/foto.png';
 import { SiLinkedin, SiGithub, SiReadthedocs, SiYoutube } from 'react-icons/si';
 import './style.scss';
-import pdfFile from './../../assets/Curriculo_2021.pdf'
+import pdfFile from './../../assets/curriculo_2021_08.pdf'
 
 const HeaderImage = () => {
     
