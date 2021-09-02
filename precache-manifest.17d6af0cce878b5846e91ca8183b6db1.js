@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6b863ccdef4e30f801e9d9d443b797b1",
+    "revision": "44fdf320709643712c2a35dbbbcfcfbb",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.a15da7e3.chunk.css"
   },
   {
-    "revision": "b4caad4ce75ab6792954",
+    "revision": "1a5477a81155a56f372f",
     "url": "/static/css/main.83e88927.chunk.css"
   },
   {
@@ -20,16 +20,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ded47eb3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b4caad4ce75ab6792954",
-    "url": "/static/js/main.b74222a4.chunk.js"
+    "revision": "1a5477a81155a56f372f",
+    "url": "/static/js/main.d8b4fcce.chunk.js"
   },
   {
     "revision": "8f2579ff55bd5aa1997a",
     "url": "/static/js/runtime-main.87831706.js"
-  },
-  {
-    "revision": "1b0ad628cc1bc09629091c6c67793871",
-    "url": "/static/media/Curriculo_2021.1b0ad628.pdf"
   },
   {
     "revision": "7010650b26b29e895dababf8485bc190",
@@ -46,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "00feb67f9031861ebda5620c3dc478c5",
     "url": "/static/media/claro-2.00feb67f.png"
+  },
+  {
+    "revision": "64df53905dc1e1cae436df79afc6ca82",
+    "url": "/static/media/curriculo_2021_08.64df5390.pdf"
   },
   {
     "revision": "68fbe224eaa3a1a9ba42df1b50b7a095",
