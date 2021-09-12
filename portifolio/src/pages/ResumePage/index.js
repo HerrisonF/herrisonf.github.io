@@ -36,10 +36,17 @@ const ResumePage = () => {
                     <h3 className="vertical-timeline-element-title">Analista de Sistemas / Desenvolvedor Mobile</h3>
                     <h4 className="vertical-timeline-element-subtitle">Accurate Software</h4>
                     <p>
-                        Desenvolvimento Full Stack, GIT, SCRUM,
-                        JIRA, Squads. Projetos: Mambo Delivery (Flutter), Claro (App Meu Técnico): Android, Ionic, padrão MVVM e Clouds MC(Oracle), AWS(Amazon).
-                        Consultor Oracle (CIP) com uso do OIC(Oracle Integration Cloud) ; Migração back e front OI com do Oracle Cloud (OKE), Kubernetes, Docker; 
-                        Claro (Portal LGPD) React, HTML, CSS;  
+                    Desenvolvimento Mobile, GIT, SCRUM, JIRA, Squads.
+Líder Técnico (equipe remota) em Flutter. Padrões: MOBX e GETIT.
+Atuando também como SM.
+Projetos:
+- Claro (App Meu Técnico): Android, Ionic, MVVM, Clouds MCS(Oracle) e
+AWS(Amazon).
+- Consultor Oracle CIP com uso do Oracle Integration Cloud.
+- Migração OI Front e Back do ambiente CLASSIC para ambiente OIC 2.0
+na Oracle Cloud (OKE). Uso: Docker e Kubernetes.
+- Claro ( Portal LGPD ), React, HTML, CSS
+ 
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
