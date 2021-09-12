@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.83e88927.chunk.css",
-    "main.js": "/static/js/main.85a41f9f.chunk.js",
-    "main.js.map": "/static/js/main.85a41f9f.chunk.js.map",
+    "main.js": "/static/js/main.422ccddf.chunk.js",
+    "main.js.map": "/static/js/main.422ccddf.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87831706.js",
     "runtime-main.js.map": "/static/js/runtime-main.87831706.js.map",
     "static/css/2.a15da7e3.chunk.css": "/static/css/2.a15da7e3.chunk.css",
     "static/js/2.ded47eb3.chunk.js": "/static/js/2.ded47eb3.chunk.js",
     "static/js/2.ded47eb3.chunk.js.map": "/static/js/2.ded47eb3.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e6c6d8e1b505cb7084cf2510730dfaf6.js": "/precache-manifest.e6c6d8e1b505cb7084cf2510730dfaf6.js",
+    "precache-manifest.356b48fcfea2d012026a2730bb142128.js": "/precache-manifest.356b48fcfea2d012026a2730bb142128.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.a15da7e3.chunk.css.map": "/static/css/2.a15da7e3.chunk.css.map",
     "static/css/main.83e88927.chunk.css.map": "/static/css/main.83e88927.chunk.css.map",
@@ -18,7 +18,7 @@
     "static/media/cip-2.png": "/static/media/cip-2.61bae100.png",
     "static/media/claro-1.png": "/static/media/claro-1.6f0501c2.png",
     "static/media/claro-2.png": "/static/media/claro-2.00feb67f.png",
-    "static/media/curriculo_2021_08.pdf": "/static/media/curriculo_2021_08.aa770091.pdf",
+    "static/media/curriculo_2021_08.pdf": "/static/media/curriculo_2021_08.1e52ea96.pdf",
     "static/media/foto.png": "/static/media/foto.68fbe224.png",
     "static/media/inicio-tcc.png": "/static/media/inicio-tcc.76418d6f.png",
     "static/media/listagem-tcc.png": "/static/media/listagem-tcc.cbee3187.png",
@@ -44,6 +44,6 @@
     "static/css/2.a15da7e3.chunk.css",
     "static/js/2.ded47eb3.chunk.js",
     "static/css/main.83e88927.chunk.css",
-    "static/js/main.85a41f9f.chunk.js"
+    "static/js/main.422ccddf.chunk.js"
   ]
 }
