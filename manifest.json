@@ -1,6 +1,6 @@
 {
-  "short_name": "Herrison Portifolio",
-  "name": "Site pessoal com detalhes da minha carreira",
+  "short_name": "Herrison Portfólio",
+  "name": "Portfólio e detalhes de minha carreira",
   "icons": [
     {
       "src": "favicon.ico",
@@ -9,7 +9,7 @@
     },
     {
       "src": "foto.png",
-      "type": "image/jpeg",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
