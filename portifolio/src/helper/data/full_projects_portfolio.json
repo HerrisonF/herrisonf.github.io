@@ -8,6 +8,20 @@
             "button" : "https://play.google.com/store/apps/details?id=br.com.app.mambodelivery" 
         },
         {
+            "description" : "Participação no Projeto LGPD da Claro. O portal consiste em atender à lei conforme os direitos de compartilhamento de informação do usuário. No site, participei como front-end com uso de REACT e Mondrian(Design System) e também ajustando as configurações de cookies em um serviço específico para isso, a OneTrust. POCs em mobile com uso do Flutter e consumo REST. ",
+            "images": [
+                17,18
+            ],
+            "button" : "https://www.claro.com.br/privacidade/politica-de-privacidade"
+        },
+        {
+            "description" : "Participação no projeto MeuTecnico. Um aplicativo da Claro(NET) para auxiliar os técnicos em sua rotina. Com liberações de OS, rastreamento em escada, assinatura digital, entre outros.",
+            "images": [
+                14
+            ],
+            "button" : "https://play.google.com/store/apps/details?id=br.com.net.meutecnico"
+        },
+        {
             "description" : "No aplicativo era possível ver informações de profile do jogador, listagem de partidas, jogadores com partida em andamento, itens e runas. Também tinha opções para ver o próprio perfil e o perfil de outros jogadores. Foi desenvolvido em flutter utilizando os dados da Riot e dados do site Data Dragon para as imagens. APP utilizado para aprender flutter.",
             "images": [
                 1,2,3,4,5,6,7
@@ -22,25 +36,11 @@
             "button" : "http://luciene.pro.br/?p=58"
         },
         {
-            "description" : "Participação no projeto MeuTecnico. Um aplicativo da Claro(NET) para auxiliar os técnicos em sua rotina. Com liberações de OS, rastreamento em escada, assinatura digital, entre outros.",
-            "images": [
-                14
-            ],
-            "button" : "https://play.google.com/store/apps/details?id=br.com.net.meutecnico"
-        },
-        {
             "description" : "Participação no Projeto de integração da CIP. O projeto consistia na integração de suas informações com utilização do OIC (Oracle Cloud Infrastructure).",
             "images": [
                 15,16
             ],
             "button" : "https://www.cip-bancos.org.br/SitePages/Home.aspx"
-        },
-        {
-            "description" : "Participação no Projeto LGPD da Claro. O portal consiste em atender à lei conforme os direitos de compartilhamento de informação do usuário. No site, participei como front-end com uso de REACT e Mondrian(Design System) e também ajustando as configurações de cookies em um serviço específico para isso, a OneTrust. POCs em mobile com uso do Flutter e consumo REST. ",
-            "images": [
-                17,18
-            ],
-            "button" : "https://www.claro.com.br/privacidade/politica-de-privacidade"
         },
         {
             "description" : "Participação no Projeto de migração do regionalizador da OI. Consistia em transferir o regionalizador do OIC Classic para um OIC mais atualizado. As tecnologias utilizadas foram Docker e Kubernetes para integrar ao OKE do OIC, e também Spring e OAuth2 para o backend. ",

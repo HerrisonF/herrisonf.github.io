@@ -26,8 +26,11 @@ const PortfolioPage = () => {
                     full_projects_portfolio.projects.map(project => {
                         return(
                             <Row className="portfolio_item_row">
-                                <Col xs={12} md={6} ls={4} className="carrousel_col">
-                                    <Carousel>
+                                <Col xs={12} md={5} ls={4} className="carrousel_col">
+                                    <Carousel
+                                    dynamicHeight={true}
+                                    showArrows={true}
+                                    >
                                         {
                                             project.images.map(id => {
                                                 return(
@@ -39,7 +42,7 @@ const PortfolioPage = () => {
                                         }
                                     </Carousel>
                                 </Col>
-                                <Col className="portfolio_item_description_col">
+                                <Col xs={12} md={6} ls={4} className="portfolio_item_description_col">
                                     <p className="portfolio_description_text">{project.description}</p>
                                     {project.button && (
                                         <Row>
@@ -47,7 +50,7 @@ const PortfolioPage = () => {
                                                 className="portfolio_item_button"
                                                 onClick={()=> navigate(project.button)}
                                             >
-                                                Visualizar
+                                                Ir ao site
                                             </Button>
                                         </Row>)}
                                 </Col>

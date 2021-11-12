@@ -12,32 +12,33 @@
 }
 
 .portfolio_description_text {
-    max-width: 40rem;
     text-align: justify;
     word-break: break-all;
 }
 
 .portfolio_item_description_col {
     align-self: center;
-    margin-right: 1.5rem;
     @media(max-width: 771px) {
         margin-left: 1rem;
         padding-bottom: 2rem;
     }
+    
 }
 
 .carrousel_col{
-    background-color: rgba(201, 201, 201, 0.637);
     margin: 1rem;
 }
 
 .portfolio_item_row {
     height: 24rem;
+    @media(max-width: 540px) {
+        height: 40rem;
+    }
 }
 
 .portfolio_item_button {
     margin-top: 3rem;
-    @media(max-width: 771px) {
+    @media(max-width: 769px) {
         margin-top: 1rem;
         margin-left: 1rem;
     }
@@ -48,6 +49,9 @@
     background-color: aqua;
     font-weight: 600;
     color: black;
+    @media(max-width: 540px) {
+       width: 28.5rem;
+    }
 }
 
 .portfolio_item_button.btn.btn-primary:hover {

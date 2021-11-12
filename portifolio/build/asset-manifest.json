@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.d8320bbe.chunk.css",
-    "main.js": "/static/js/main.8938490d.chunk.js",
-    "main.js.map": "/static/js/main.8938490d.chunk.js.map",
+    "main.js": "/static/js/main.667ba0e8.chunk.js",
+    "main.js.map": "/static/js/main.667ba0e8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58fe7d23.js",
     "runtime-main.js.map": "/static/js/runtime-main.58fe7d23.js.map",
     "static/css/2.79598134.chunk.css": "/static/css/2.79598134.chunk.css",
@@ -14,8 +14,8 @@
     "static/js/2.122358b9.chunk.js.LICENSE.txt": "/static/js/2.122358b9.chunk.js.LICENSE.txt",
     "static/media/cip_1.b352b67e.png": "/static/media/cip_1.b352b67e.png",
     "static/media/cip_2.9f0dd760.png": "/static/media/cip_2.9f0dd760.png",
-    "static/media/claro-1.4912c880.png": "/static/media/claro-1.4912c880.png",
-    "static/media/claro-2.d6818ddf.png": "/static/media/claro-2.d6818ddf.png",
+    "static/media/claro_1.d1844389.png": "/static/media/claro_1.d1844389.png",
+    "static/media/claro_2.dddeff5f.png": "/static/media/claro_2.dddeff5f.png",
     "static/media/curriculo_2021_08.89675b96.pdf": "/static/media/curriculo_2021_08.89675b96.pdf",
     "static/media/foto.14ce277c.png": "/static/media/foto.14ce277c.png",
     "static/media/inicio-tcc.7b5bcf07.png": "/static/media/inicio-tcc.7b5bcf07.png",
@@ -33,8 +33,8 @@
     "static/media/mambo_2.df7615b9.jpeg": "/static/media/mambo_2.df7615b9.jpeg",
     "static/media/meu_tecnico.b52e2c1e.png": "/static/media/meu_tecnico.b52e2c1e.png",
     "static/media/no-photo.93aa8390.jpg": "/static/media/no-photo.93aa8390.jpg",
-    "static/media/oi-1.c211bf84.png": "/static/media/oi-1.c211bf84.png",
-    "static/media/oi-2.0dda1287.png": "/static/media/oi-2.0dda1287.png",
+    "static/media/oi_1.2a7a2d9a.png": "/static/media/oi_1.2a7a2d9a.png",
+    "static/media/oi_2.8963f26c.png": "/static/media/oi_2.8963f26c.png",
     "static/media/password-tcc.33188147.png": "/static/media/password-tcc.33188147.png",
     "static/media/pergunta-tcc.05884054.png": "/static/media/pergunta-tcc.05884054.png"
   },
@@ -43,6 +43,6 @@
     "static/css/2.79598134.chunk.css",
     "static/js/2.122358b9.chunk.js",
     "static/css/main.d8320bbe.chunk.css",
-    "static/js/main.8938490d.chunk.js"
+    "static/js/main.667ba0e8.chunk.js"
   ]
 }
