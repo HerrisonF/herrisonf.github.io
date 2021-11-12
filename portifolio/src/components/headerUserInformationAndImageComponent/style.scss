@@ -1,0 +1,123 @@
+.header_background_and_size {
+    background-image: linear-gradient(to right, #00eeff, #00aeffe8, #007cb6e8);
+    border-radius: 1rem;
+    height: 15rem;
+
+    @media(max-width: 767px) { // visão no tablet
+        height: 26rem;
+        text-align: center;
+    }
+}
+
+.col-lg-4.col-md-5.col-sm-12.col-12 {
+    z-index: 1;
+}
+
+.user_image_formatter {
+    margin-top: 1.5rem;
+    margin-left: 1rem;
+    border-radius: 1rem;
+    
+    @media(max-width: 768px) { // visão no tablet
+        clip-path: circle();
+        width: 10rem;
+        height: 10rem;
+    }
+}
+
+.text_container_header.col-lg-8.col-md-5.col-sm-12.col-12 {
+    height: 12rem;
+    margin-top: 2rem;
+    @media(max-width: 915px) { // visão no tablet
+        margin-top: 0;
+    }
+}
+
+.header_user_name {
+    color: black;
+    font-weight: bolder;
+    font-family: 'Georgia';
+    font-size: large; 
+}
+
+.header_user_degree {
+    color: black;
+    font-size: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 1rem;
+}
+
+.header_user_address_info_container {
+    color: #ffffff;
+    word-break: break-all;
+    font-family: 'Trebuchet MS', sans-serif;
+    padding-left: unset;
+    font-size: 14px;
+}
+
+.social_media_container {
+    padding-top: 1rem;
+}
+
+.linkedin_icon {
+    color: rgb(0, 65, 139);
+    margin-right: 1rem;
+    margin-top: 0.3rem;
+    height: 1.6rem;
+    width: 1.6rem;
+}
+
+.linkedin_icon:hover{
+    color: rgba(192, 192, 192, 0.945);
+}
+
+.github_icon {
+    color: rgb(0, 0, 0);
+    height: 1.6rem;
+    width: 1.6rem;
+    margin-top: 0.3rem;
+}
+
+.github_icon:hover {
+    color: rgb(133, 133, 133);
+}
+
+.youtube_icon {
+    color: rgb(247, 26, 26);
+    margin-left: 1rem;
+    height: 2rem;
+    width: 2.5rem;
+    margin-top: 0.2rem;
+}
+
+.youtube_icon:hover {
+    color: rgb(255, 61, 61);
+}
+
+.curriculum_icon {
+    color: rgb(255, 255, 255);
+    height: 1rem;
+    width: 1rem;
+}
+
+.curriculum_button_text{
+    font-size: 14px;
+}
+
+.curriculo_button {
+    margin-left: 0.8rem;
+}
+
+.curriculo_button.btn.btn-primary {
+    background-color: rgb(0, 0, 0);
+    border-color: white;
+}
+
+.curriculo_button.btn.btn-primary:hover {
+    background-color:  rgba(255, 255, 255, 0.699);
+}
+
+.curriculum_icon:hover {
+    color: rgba(150, 150, 150, 0.623);
+    text-decoration: none;
+}
