@@ -10,7 +10,7 @@
         {
             "description" : "No aplicativo era possível ver informações de profile do jogador, listagem de partidas, jogadores com partida em andamento, itens e runas. Também tinha opções para ver o próprio perfil e o perfil de outros jogadores. Foi desenvolvido em flutter utilizando os dados da Riot e dados do site Data Dragon para as imagens. APP utilizado para aprender flutter.",
             "images": [
-                1
+                1,2,3,4,5,6,7
             ],
             "button" : "https://github.com/HerrisonF/watch_summoner/tree/develop"
         },
@@ -38,7 +38,7 @@
         {
             "description" : "Participação no Projeto LGPD da Claro. O portal consiste em atender à lei conforme os direitos de compartilhamento de informação do usuário. No site, participei como front-end com uso de REACT e Mondrian(Design System) e também ajustando as configurações de cookies em um serviço específico para isso, a OneTrust. POCs em mobile com uso do Flutter e consumo REST. ",
             "images": [
-                17
+                17,18
             ],
             "button" : "https://www.claro.com.br/privacidade/politica-de-privacidade"
         },
