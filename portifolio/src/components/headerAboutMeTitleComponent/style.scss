@@ -1,0 +1,18 @@
+.about_me_container.col-lg-6.col-md-6.col-sm-12.col-12 {
+    margin-bottom: 2rem;
+    border-radius: 1rem;
+    padding: 2rem;
+    background-color: #00eeff;
+    margin-top: 1rem;
+}
+
+.about_me_content_text{
+    @media (max-width: 768px) {
+        margin-top: 1rem;
+    }
+    line-height: 1.8rem;
+    font-size: 1.1rem;
+    color:  rgb(68, 51, 18);
+    text-align: left;
+    font-family: 'Georgia', sans-serif;
+}
