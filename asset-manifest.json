@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.d8320bbe.chunk.css",
-    "main.js": "/static/js/main.5634b3d8.chunk.js",
-    "main.js.map": "/static/js/main.5634b3d8.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.58fe7d23.js",
-    "runtime-main.js.map": "/static/js/runtime-main.58fe7d23.js.map",
+    "main.js": "/static/js/main.5c59e5d1.chunk.js",
+    "main.js.map": "/static/js/main.5c59e5d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d0605945.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d0605945.js.map",
     "static/css/2.79598134.chunk.css": "/static/css/2.79598134.chunk.css",
-    "static/js/2.580c3056.chunk.js": "/static/js/2.580c3056.chunk.js",
-    "static/js/2.580c3056.chunk.js.map": "/static/js/2.580c3056.chunk.js.map",
+    "static/js/2.52fe0291.chunk.js": "/static/js/2.52fe0291.chunk.js",
+    "static/js/2.52fe0291.chunk.js.map": "/static/js/2.52fe0291.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.79598134.chunk.css.map": "/static/css/2.79598134.chunk.css.map",
     "static/css/main.d8320bbe.chunk.css.map": "/static/css/main.d8320bbe.chunk.css.map",
-    "static/js/2.580c3056.chunk.js.LICENSE.txt": "/static/js/2.580c3056.chunk.js.LICENSE.txt",
-    "static/media/cip-1.a6ffe043.png": "/static/media/cip-1.a6ffe043.png",
-    "static/media/cip-2.8deb9fcb.png": "/static/media/cip-2.8deb9fcb.png",
+    "static/js/2.52fe0291.chunk.js.LICENSE.txt": "/static/js/2.52fe0291.chunk.js.LICENSE.txt",
+    "static/media/cip_1.b352b67e.png": "/static/media/cip_1.b352b67e.png",
+    "static/media/cip_2.9f0dd760.png": "/static/media/cip_2.9f0dd760.png",
     "static/media/claro-1.4912c880.png": "/static/media/claro-1.4912c880.png",
     "static/media/claro-2.d6818ddf.png": "/static/media/claro-2.d6818ddf.png",
     "static/media/curriculo_2021_08.89675b96.pdf": "/static/media/curriculo_2021_08.89675b96.pdf",
@@ -29,8 +29,9 @@
     "static/media/lol-profile.055860df.jpeg": "/static/media/lol-profile.055860df.jpeg",
     "static/media/lol-running-game-2.a4e615c7.jpeg": "/static/media/lol-running-game-2.a4e615c7.jpeg",
     "static/media/lol-running-game.cbf4000f.jpeg": "/static/media/lol-running-game.cbf4000f.jpeg",
-    "static/media/mambo-1.0dddbe93.png": "/static/media/mambo-1.0dddbe93.png",
-    "static/media/meu-tecnico.fe4c46de.png": "/static/media/meu-tecnico.fe4c46de.png",
+    "static/media/mambo_1.36130537.png": "/static/media/mambo_1.36130537.png",
+    "static/media/mambo_2.df7615b9.jpeg": "/static/media/mambo_2.df7615b9.jpeg",
+    "static/media/meu_tecnico.b52e2c1e.png": "/static/media/meu_tecnico.b52e2c1e.png",
     "static/media/no-photo.93aa8390.jpg": "/static/media/no-photo.93aa8390.jpg",
     "static/media/oi-1.c211bf84.png": "/static/media/oi-1.c211bf84.png",
     "static/media/oi-2.0dda1287.png": "/static/media/oi-2.0dda1287.png",
@@ -38,10 +39,10 @@
     "static/media/pergunta-tcc.05884054.png": "/static/media/pergunta-tcc.05884054.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.58fe7d23.js",
+    "static/js/runtime-main.d0605945.js",
     "static/css/2.79598134.chunk.css",
-    "static/js/2.580c3056.chunk.js",
+    "static/js/2.52fe0291.chunk.js",
     "static/css/main.d8320bbe.chunk.css",
-    "static/js/main.5634b3d8.chunk.js"
+    "static/js/main.5c59e5d1.chunk.js"
   ]
 }
