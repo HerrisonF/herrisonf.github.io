@@ -23,7 +23,7 @@ const ResumePage = () => {
                     <h3 className="vertical-timeline-element-title">Desenvolvedor Mobile Senior</h3>
                     <h4 className="vertical-timeline-element-subtitle">Avanade Software</h4>
                     <p>
-                    Home Office - Projeto: Santander - Desenvolvimento Android/Flutter, Angular e Camel.
+                    Home Office - Projeto: Santander - Desenvolvimento Android.
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
@@ -39,13 +39,14 @@ const ResumePage = () => {
                     Desenvolvimento Mobile, GIT, SCRUM, JIRA, Squads.
 Líder Técnico (equipe remota) em Flutter. Padrões: MOBX e GETIT.
 Atuando também como SM.
-Projetos:
-- Claro (App Meu Técnico): Android, Ionic, MVVM, Clouds MCS(Oracle) e
+<br/>
+Outros Projetos:
+<br/> - Claro (App Meu Técnico): Android, Ionic, MVVM, Clouds MCS(Oracle) e
 AWS(Amazon).
-- Consultor Oracle CIP com uso do Oracle Integration Cloud.
-- Migração OI Front e Back do ambiente CLASSIC para ambiente OIC 2.0
+<br/>- Consultor Oracle CIP com uso do Oracle Integration Cloud.
+<br/>- Migração OI Front e Back do ambiente CLASSIC para ambiente OIC 2.0
 na Oracle Cloud (OKE). Uso: Docker e Kubernetes.
-- Claro ( Portal LGPD ), React, HTML, CSS
+<br/>- Claro ( Portal LGPD ), React, HTML, CSS
  
                     </p>
                 </VerticalTimelineElement>
