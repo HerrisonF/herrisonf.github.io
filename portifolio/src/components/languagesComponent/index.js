@@ -9,7 +9,7 @@ const LaunguagesComponent = () => {
             <div>
                 <span className="language_text">Idiomas</span>
             </div>
-            <Col>
+            <Col xs={6} md={6} lg={6}>
                 <div>
                     <img
                         alt="English United States Flag"
@@ -22,7 +22,7 @@ const LaunguagesComponent = () => {
                     <ProgressBar percent={70}/>
                 </div>
             </Col>
-            <Col>
+            <Col xs={6} md={6} lg={6}>
                 <div className="background_japanese_flag">
                     <img
                         alt="Japanese Flag"
