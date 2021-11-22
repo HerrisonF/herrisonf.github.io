@@ -1,6 +1,8 @@
 import React from 'react';
 import { Col, Row } from 'react-bootstrap';
 import ProgressBar from '../progressBarComponent';
+import jpFlag from '../../assets/JP.png';
+import usFlag from '../../assets/US.png';
 import './style.scss';
 
 const LaunguagesComponent = () => {
@@ -13,26 +15,26 @@ const LaunguagesComponent = () => {
                 <div>
                     <img
                         alt="English United States Flag"
-                        src="http://purecatamphetamine.github.io/country-flag-icons/3x2/US.svg" width="50" height="50"/>
+                        src={usFlag} width="65" height="45"/>
                 </div>
                 <div>
                     <span className="language_text">Inglês</span>
                 </div>
                 <div>
-                    <ProgressBar percent={70}/>
+                    <ProgressBar percent={65}/>
                 </div>
             </Col>
             <Col xs={6} md={6} lg={6}>
                 <div className="background_japanese_flag">
                     <img
                         alt="Japanese Flag"
-                        src="http://purecatamphetamine.github.io/country-flag-icons/3x2/JP.svg" width="50" height="50" />
+                        src={jpFlag} width="65" height="45" />
                 </div>
                 <div>
                     <span className="language_text">Japonês</span>
                 </div>
                 <div>
-                    <ProgressBar percent={5}/>
+                    <ProgressBar percent={4}/>
                 </div>
             </Col>
         </Row>
