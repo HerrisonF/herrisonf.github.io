@@ -18,8 +18,8 @@
 
 .portfolio_item_description_col {
     align-self: center;
+    padding-right: 10rem;
     @media(max-width: 771px) {
-        margin-left: 1rem;
         padding-bottom: 2rem;
     }
     
@@ -33,6 +33,7 @@
     height: 24rem;
     @media(max-width: 540px) {
         height: 40rem;
+        margin-bottom: 3rem;
     }
 }
 
@@ -41,6 +42,7 @@
     @media(max-width: 769px) {
         margin-top: 1rem;
         margin-left: 1rem;
+        margin-right: 1rem;
     }
 }
 

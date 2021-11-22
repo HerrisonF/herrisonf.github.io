@@ -18,7 +18,7 @@ const DashBoardPortfolioComponent = () => {
            <Button 
               className="see_more_projects_dashboard"
             >
-              Mais projetos
+              Ver mais projetos e detalhes
             </Button> 
         </Link>
       );
