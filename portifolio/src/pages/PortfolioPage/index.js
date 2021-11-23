@@ -42,7 +42,7 @@ const PortfolioPage = () => {
                                         }
                                     </Carousel>
                                 </Col>
-                                <Col xs={12} md={6} ls={4} className="portfolio_item_description_col">
+                                <Col xs={12} md={6} ls={8} className="portfolio_item_description_col">
                                     <p className="portfolio_description_text">{project.description}</p>
                                     {project.button && (
                                         <Row>
