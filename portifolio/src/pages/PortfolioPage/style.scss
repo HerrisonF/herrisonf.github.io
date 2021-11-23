@@ -16,10 +16,6 @@
     word-break: break-all;
 }
 
-.carrousel_col.col-md-5.col-12 {
-
-}
-
 .portfolio_item_description_col {
     align-self: center;
     padding-right: 10rem;
@@ -34,9 +30,9 @@
 }
 
 .portfolio_item_row {
-    height: 24rem;
+    //height: 24rem;
     @media(max-width: 768px) {
-        height: 40rem;
+        //height: 40rem;
         margin-bottom: 3rem;
     }
 }
