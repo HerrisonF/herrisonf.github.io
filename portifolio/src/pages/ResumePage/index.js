@@ -23,7 +23,7 @@ const ResumePage = () => {
                     <h3 className="vertical-timeline-element-title">Desenvolvedor Mobile Senior</h3>
                     <h4 className="vertical-timeline-element-subtitle">Avanade Software</h4>
                     <p>
-                    Home Office - Projeto: Santander - Desenvolvimento Android.
+                    Home Office - Projeto: Einstein - Desenvolvimento Flutter.
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement

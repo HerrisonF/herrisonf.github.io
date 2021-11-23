@@ -19,7 +19,7 @@ const HeaderImage = () => {
             </Col>
             <Col xs={12} sm={12} md={5} lg={8} className="text_container_header"> 
                     <div className="header_user_name">Herrison Féres</div>
-                    <div className="header_user_degree"> Analista de Sistemas / Mobile Developer Engineer</div>
+                    <div className="header_user_degree"> Analista de Sistemas / Mobile Software Engineer</div>
                     <Col xs={12} md={8} className="header_user_address_info_container">
                         <div>{(new Date().getFullYear() - 1997)} anos</div>
                         <div>São José do Rio Preto - São Paulo</div>
