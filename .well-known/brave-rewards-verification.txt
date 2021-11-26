@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: herrisonf.github.io
+Token: 7aede15aafdfcbdfe74bb35a51f9b65a9ca853f2676299c3141ae433456affb3
