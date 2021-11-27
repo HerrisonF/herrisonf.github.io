@@ -8,15 +8,9 @@
         },
         {
             "images": [
-                1,2,3,4,5,6,7,8,9
+                1,2,3,4
             ],
-            "button" : "https://github.com/HerrisonF/watch_summoner/tree/develop"
-        },
-        {
-            "images": [
-                10,11,12,13
-            ],
-            "button" : "http://luciene.pro.br/?p=58"
+            "button" : "https://play.google.com/store/apps/details?id=com.herrison.legends_panel"
         },
         {
             "images": [
@@ -29,6 +23,12 @@
                 17,18
             ],
             "button" : "https://www.claro.com.br/privacidade/politica-de-privacidade"
+        },
+        {
+            "images": [
+                10,11,12,13
+            ],
+            "button" : "http://luciene.pro.br/?p=58"
         }
     ]
 }

@@ -20,10 +20,10 @@ const ResumePage = () => {
                     iconStyle={{ background: 'aqua', color: 'black' }}
                     icon={<BiBriefcase />}
                 >
-                    <h3 className="vertical-timeline-element-title">Desenvolvedor Mobile Senior</h3>
-                    <h4 className="vertical-timeline-element-subtitle">Avanade Software</h4>
+                    <h3 className="vertical-timeline-element-title">Mobile Software Engineer</h3>
+                    <h4 className="vertical-timeline-element-subtitle">Avanade</h4>
                     <p>
-                    Home Office - Projeto: Hospital Israelita Albert Einstein - Desenvolvimento Flutter.
+                    Home Office - Projeto: Hospital Israelita Albert Einstein - Desenvolvimento Flutter(cubit).
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement

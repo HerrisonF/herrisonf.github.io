@@ -6,6 +6,13 @@
                 21,22
             ],
             "button" : "https://play.google.com/store/apps/details?id=br.com.app.mambodelivery" 
+        }, 
+        {
+            "description" : "Aplicativo na lançado na Play Store, com o tema do League Of Legends.  Na aplicação é possível ver informações do profile do jogador e jogadores com partida em andamento. Desenvolvido em Flutter e com GETX, foi utilizado dados da Riot e os recursos do Data Dragon para as imagens. A aplicação está em desenvolvimento contínuo com novas atualizações sempre que possível.",
+            "images": [
+                1,2,3,4
+            ],
+            "button" : "https://play.google.com/store/apps/details?id=com.herrison.legends_panel"
         },
         {
             "description" : "Participação no Projeto LGPD da Claro. O portal consiste em atender à lei conforme os direitos de compartilhamento de informação do usuário. No site, participei como front-end com uso de REACT e Mondrian(Design System) e também ajustando as configurações de cookies em um serviço específico para isso, a OneTrust. POCs em mobile com uso do Flutter e consumo REST. ",
@@ -20,13 +27,6 @@
                 14
             ],
             "button" : "https://play.google.com/store/apps/details?id=br.com.net.meutecnico"
-        },
-        {
-            "description" : "No aplicativo era possível ver informações de profile do jogador, listagem de partidas, jogadores com partida em andamento, itens e runas. Também tinha opções para ver o próprio perfil e o perfil de outros jogadores. Foi desenvolvido em flutter utilizando os dados da Riot e dados do site Data Dragon para as imagens. APP utilizado para aprender flutter.",
-            "images": [
-                1,2,3,4,5,6,7
-            ],
-            "button" : "https://github.com/HerrisonF/watch_summoner/tree/develop"
         },
         {
             "description" : "Aplicativo em Android utilizando o Firebase. Foi um APP para meu TCC. O aplicativo seguia a linha de momorização por repetição(Leitner), onde os usuários cadastravam perguntas e respostas para estudar posteriormente com o passar dos dias. O aplicativo usava o feedback do usuário em cada questão para calcular quais eram as perguntas que ele mais tinha dificuldade e apresenta-las com mais frequência para que usuário conseguisse memorizar.",

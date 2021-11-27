@@ -1,13 +1,8 @@
 import noPhoto from '../no-photo.jpg';
-import lolDetalhesChamp from '../leagueOfLegends/lol-detalhes-champ.jpeg';
-import lolDetalhes2 from '../leagueOfLegends/lol-detalhes-2.jpeg';
-import lolListagemChamps from '../leagueOfLegends/lol-listagem-champs.jpeg';
-import lolListagemItens from '../leagueOfLegends/lol-listagem-itens.jpeg';
-import lolListagemJogadores from '../leagueOfLegends/lol-listagem-jogadores.jpeg';
-import lolListagemRunas from '../leagueOfLegends/lol-listagem-runas.jpeg';
-import lolProfile from '../leagueOfLegends/lol-profile.jpeg';
-import lolRunningGame from '../leagueOfLegends/lol-running-game.jpeg';
-import lolRunningGame2 from '../leagueOfLegends/lol-running-game-2.jpeg';
+import lol_1 from '../leagueOfLegends/lol_1.png';
+import lol_2 from '../leagueOfLegends/lol_2.png';
+import lol_3 from '../leagueOfLegends/lol_3.png';
+import lol_4 from '../leagueOfLegends/lol_4.png';
 import inicioTcc from '../tcc/inicio-tcc.png';
 import listagemTcc from '../tcc/listagem-tcc.png';
 import passwordTcc from '../tcc/password-tcc.png';
@@ -32,11 +27,11 @@ const SwitchImage = ({ id, type }) => {
         case 1:
             return (
                     type ?
-                    <Card.Img variant="top" src={lolDetalhesChamp} className="portifolio-slide"/> : 
+                    <Card.Img variant="top" src={lol_1} className="portifolio-slide"/> : 
                     <div>
                         <img
                         className="d-block w-100"
-                        src={lolDetalhesChamp}
+                        src={lol_1}
                         alt="First slide"
                         />
                         <span className="format-text-under-images">Watch Summoner</span>
@@ -46,11 +41,11 @@ const SwitchImage = ({ id, type }) => {
         case 2: 
             return (
                 type ?
-                <Card.Img variant="top" src={lolDetalhes2} className="portifolio-slide"/> :
+                <Card.Img variant="top" src={lol_2} className="portifolio-slide"/> :
                 <div>
                     <img
                         className="d-block w-100"
-                        src={lolDetalhes2}
+                        src={lol_2}
                         alt="First slide"
                     />
                     <span className="format-text-under-images">Watch Summoner</span>
@@ -59,11 +54,11 @@ const SwitchImage = ({ id, type }) => {
         case 3: 
             return (
                 type ?
-                <Card.Img variant="top" src={lolListagemChamps} className="portifolio-slide"/> :
+                <Card.Img variant="top" src={lol_3} className="portifolio-slide"/> :
                 <div>
                     <img
                     className="d-block w-100"
-                    src={lolListagemChamps}
+                    src={lol_3}
                     alt="First slide"
                     />
                     <span className="format-text-under-images">Watch Summoner</span>
@@ -72,76 +67,11 @@ const SwitchImage = ({ id, type }) => {
         case 4: 
             return (
                 type ?
-                <Card.Img variant="top" src={lolListagemItens} className="portifolio-slide"/> :
+                <Card.Img variant="top" src={lol_4} className="portifolio-slide"/> :
                 <div>
                     <img
                         className="d-block w-100"
-                        src={lolListagemItens}
-                        alt="First slide"
-                    />
-                    <span className="format-text-under-images">Watch Summoner</span>
-                </div>
-            )
-            case 5: 
-            return (
-                type ?
-                <Card.Img variant="top" src={lolListagemJogadores} className="portifolio-slide"/> :
-                <div>
-                    <img
-                        className="d-block w-100"
-                        src={lolListagemJogadores}
-                        alt="First slide"
-                    />
-                    <span className="format-text-under-images">Watch Summoner</span>
-                </div>
-            )
-            case 6: 
-            return (
-                type ?
-                <Card.Img variant="top" src={lolListagemRunas} className="portifolio-slide"/> :
-                <div>
-                    <img
-                    className="d-block w-100"
-                    src={lolListagemRunas}
-                    alt="First slide"
-                    />
-                    <span className="format-text-under-images">Watch Summoner</span>
-                </div>
-            )
-            case 7: 
-            return (
-                type ?
-                <Card.Img variant="top" src={lolProfile} className="portifolio-slide"/> :
-                <div>
-                    <img
-                    className="d-block w-100"
-                    src={lolProfile}
-                    alt="First slide"
-                    />
-                    <span className="format-text-under-images">Watch Summoner</span>
-                </div>
-            )
-            case 8: 
-            return (
-                type ?
-                <Card.Img variant="top" src={lolRunningGame} className="portifolio-slide"/> :
-                <div>
-                    <img
-                        className="d-block w-100"
-                        src={lolRunningGame}
-                        alt="First slide"
-                    />
-                    <span className="format-text-under-images">Watch Summoner</span>
-                </div>
-            )
-            case 9: 
-            return (
-                type ?
-                <Card.Img variant="top" src={lolRunningGame2} className="portifolio-slide"/> :
-                <div>
-                    <img
-                        className="d-block w-100"
-                        src={lolRunningGame2}
+                        src={lol_4}
                         alt="First slide"
                     />
                     <span className="format-text-under-images">Watch Summoner</span>
