@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.6ea30828.chunk.css",
-    "main.js": "/static/js/main.637eab99.chunk.js",
-    "main.js.map": "/static/js/main.637eab99.chunk.js.map",
+    "main.js": "/static/js/main.274c14ff.chunk.js",
+    "main.js.map": "/static/js/main.274c14ff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.58fe7d23.js",
     "runtime-main.js.map": "/static/js/runtime-main.58fe7d23.js.map",
     "static/css/2.916b6093.chunk.css": "/static/css/2.916b6093.chunk.css",
@@ -21,10 +21,10 @@
     "static/media/foto.14ce277c.png": "/static/media/foto.14ce277c.png",
     "static/media/inicio-tcc.7b5bcf07.png": "/static/media/inicio-tcc.7b5bcf07.png",
     "static/media/listagem-tcc.dfd93e40.png": "/static/media/listagem-tcc.dfd93e40.png",
-    "static/media/lol_1.50269770.png": "/static/media/lol_1.50269770.png",
-    "static/media/lol_2.00625ebf.png": "/static/media/lol_2.00625ebf.png",
-    "static/media/lol_3.99e2595a.png": "/static/media/lol_3.99e2595a.png",
-    "static/media/lol_4.c8fe2403.png": "/static/media/lol_4.c8fe2403.png",
+    "static/media/lol_1.ccd386e9.png": "/static/media/lol_1.ccd386e9.png",
+    "static/media/lol_2.d938f976.png": "/static/media/lol_2.d938f976.png",
+    "static/media/lol_3.dad06372.png": "/static/media/lol_3.dad06372.png",
+    "static/media/lol_4.202c2709.png": "/static/media/lol_4.202c2709.png",
     "static/media/mambo_1.36130537.png": "/static/media/mambo_1.36130537.png",
     "static/media/mambo_2.df7615b9.jpeg": "/static/media/mambo_2.df7615b9.jpeg",
     "static/media/meu_tecnico.b52e2c1e.png": "/static/media/meu_tecnico.b52e2c1e.png",
@@ -39,6 +39,6 @@
     "static/css/2.916b6093.chunk.css",
     "static/js/2.122358b9.chunk.js",
     "static/css/main.6ea30828.chunk.css",
-    "static/js/main.637eab99.chunk.js"
+    "static/js/main.274c14ff.chunk.js"
   ]
 }
