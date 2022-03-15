@@ -23,7 +23,8 @@ const ResumePage = () => {
                     <h3 className="vertical-timeline-element-title">Mobile Software Engineer</h3>
                     <h4 className="vertical-timeline-element-subtitle">Avanade</h4>
                     <p>
-                    Home Office - Projeto: Hospital Israelita Albert Einstein - Desenvolvimento Flutter(cubit).
+                    Home Office - Projeto: Hospital Israelita Albert Einstein - Desenvolvimento
+Flutter(BLOC, PROVIDER, MICROAPPS, MULTIREPO).
                     </p>
                 </VerticalTimelineElement>
                 <VerticalTimelineElement
