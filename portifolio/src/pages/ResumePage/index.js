@@ -16,7 +16,20 @@ const ResumePage = () => {
             <VerticalTimelineElement
                     className="vertical-timeline-element--work"
                     contentArrowStyle={{ borderRight: '7px solid  orange' }}
-                    date="2021 - Atual"
+                    date="2022 - Atual"
+                    iconStyle={{ background: 'aqua', color: 'black' }}
+                    icon={<BiBriefcase />}
+                >
+                    <h3 className="vertical-timeline-element-title">Mobile Specialist</h3>
+                    <h4 className="vertical-timeline-element-subtitle">TOTVS</h4>
+                    <p>
+                    Home Office -Desenvolvimento Mobile.
+                    </p>
+                </VerticalTimelineElement>
+            <VerticalTimelineElement
+                    className="vertical-timeline-element--work"
+                    contentArrowStyle={{ borderRight: '7px solid  orange' }}
+                    date="2021 - 2022"
                     iconStyle={{ background: 'aqua', color: 'black' }}
                     icon={<BiBriefcase />}
                 >
