@@ -23,7 +23,7 @@ const ResumePage = () => {
                     <h3 className="vertical-timeline-element-title">Mobile Specialist</h3>
                     <h4 className="vertical-timeline-element-subtitle">TOTVS</h4>
                     <p>
-                    Home Office -Desenvolvimento Mobile.
+                    Home office - Flutter(mobx,modular)/ android nativo(dagger, mvc)/ iOS(swift), Firebase, SCRUM, JIRA -- Adyen, integração de redes sociais. Manutenção e refatoração do código para melhores práticas.
                     </p>
                 </VerticalTimelineElement>
             <VerticalTimelineElement
