@@ -1,23 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.32ce73ff.chunk.css",
-    "main.js": "/static/js/main.e72f42c2.chunk.js",
-    "main.js.map": "/static/js/main.e72f42c2.chunk.js.map",
+    "main.js": "/static/js/main.89a764a4.chunk.js",
+    "main.js.map": "/static/js/main.89a764a4.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.001df020.js",
     "runtime-main.js.map": "/static/js/runtime-main.001df020.js.map",
     "static/css/2.e71ccc19.chunk.css": "/static/css/2.e71ccc19.chunk.css",
-    "static/js/2.fcdb15ff.chunk.js": "/static/js/2.fcdb15ff.chunk.js",
-    "static/js/2.fcdb15ff.chunk.js.map": "/static/js/2.fcdb15ff.chunk.js.map",
+    "static/js/2.2863e403.chunk.js": "/static/js/2.2863e403.chunk.js",
+    "static/js/2.2863e403.chunk.js.map": "/static/js/2.2863e403.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.e71ccc19.chunk.css.map": "/static/css/2.e71ccc19.chunk.css.map",
     "static/css/main.32ce73ff.chunk.css.map": "/static/css/main.32ce73ff.chunk.css.map",
-    "static/js/2.fcdb15ff.chunk.js.LICENSE.txt": "/static/js/2.fcdb15ff.chunk.js.LICENSE.txt",
+    "static/js/2.2863e403.chunk.js.LICENSE.txt": "/static/js/2.2863e403.chunk.js.LICENSE.txt",
     "static/media/US.0ccf06db.png": "/static/media/US.0ccf06db.png",
     "static/media/cip_1.b352b67e.png": "/static/media/cip_1.b352b67e.png",
     "static/media/cip_2.9f0dd760.png": "/static/media/cip_2.9f0dd760.png",
     "static/media/claro_1.d1844389.png": "/static/media/claro_1.d1844389.png",
     "static/media/claro_2.dddeff5f.png": "/static/media/claro_2.dddeff5f.png",
-    "static/media/curriculo_2021_08.89675b96.pdf": "/static/media/curriculo_2021_08.89675b96.pdf",
     "static/media/foto.14ce277c.png": "/static/media/foto.14ce277c.png",
     "static/media/inicio-tcc.7b5bcf07.png": "/static/media/inicio-tcc.7b5bcf07.png",
     "static/media/listagem-tcc.dfd93e40.png": "/static/media/listagem-tcc.dfd93e40.png",
@@ -28,6 +27,9 @@
     "static/media/mambo_1.36130537.png": "/static/media/mambo_1.36130537.png",
     "static/media/mambo_2.df7615b9.jpeg": "/static/media/mambo_2.df7615b9.jpeg",
     "static/media/meu_tecnico.b52e2c1e.png": "/static/media/meu_tecnico.b52e2c1e.png",
+    "static/media/mobileBus_1.42476977.png": "/static/media/mobileBus_1.42476977.png",
+    "static/media/mobileBus_2.f75697f5.png": "/static/media/mobileBus_2.f75697f5.png",
+    "static/media/mobileBus_3.6c6b939d.png": "/static/media/mobileBus_3.6c6b939d.png",
     "static/media/no-photo.93aa8390.jpg": "/static/media/no-photo.93aa8390.jpg",
     "static/media/oi_1.2a7a2d9a.png": "/static/media/oi_1.2a7a2d9a.png",
     "static/media/oi_2.8963f26c.png": "/static/media/oi_2.8963f26c.png",
@@ -37,8 +39,8 @@
   "entrypoints": [
     "static/js/runtime-main.001df020.js",
     "static/css/2.e71ccc19.chunk.css",
-    "static/js/2.fcdb15ff.chunk.js",
+    "static/js/2.2863e403.chunk.js",
     "static/css/main.32ce73ff.chunk.css",
-    "static/js/main.e72f42c2.chunk.js"
+    "static/js/main.89a764a4.chunk.js"
   ]
 }
