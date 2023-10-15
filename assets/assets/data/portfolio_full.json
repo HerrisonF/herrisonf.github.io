@@ -2,11 +2,15 @@
     "projects": [
         {
             "title" : "Aplicativo White-Label",
-            "description" : "Desenvolvido para venda de passagens online. A aplicação se adapta por meio de parametrizações a cada tipo de usuário. Atuação em desenvolvimento de novas features, melhora no código, refatorações e propostas de novas ideias frente aos concorrentes. Tecs: Flutter, Modular e Firebase",
+            "description" : "Desenvolvido para venda de passagens online. A aplicação se adapta por meio de parametrizações a cada tipo de usuário. Atuação em desenvolvimento de novas features, melhora no código, refatorações e propostas de novas ideias frente aos concorrentes, o que já conta com bons resultados, com algumas aplicações chegando próximas das 5 estrelas. Tecs: Flutter e Firebase",
             "images": [
                 "assets/images/projetos/mobileBus/mobileBus_1.png",
                 "assets/images/projetos/mobileBus/mobileBus_2.png",
-                "assets/images/projetos/mobileBus/mobileBus_3.png"
+                "assets/images/projetos/mobileBus/mobileBus_3.png",
+                "assets/images/projetos/mobileBus/mobileBus_4.png",
+                "assets/images/projetos/mobileBus/mobileBus_5.png",
+                "assets/images/projetos/mobileBus/mobileBus_6.png",
+                "assets/images/projetos/mobileBus/mobileBus_7.png"
             ],
             "link" : "https://play.google.com/store/apps/details?id=br.com.rjconsultores.rotatransportes&hl=pt_BR&gl=US"
         },
