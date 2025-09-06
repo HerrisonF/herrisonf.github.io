@@ -1,0 +1,57 @@
+name: curriculo_online
+description: Demonstração de portfólio.
+
+publish_to: 'none'
+version: 1.1.0+4
+
+environment:
+  sdk: '>=3.0.0 <3.10.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  intl:
+  font_awesome_flutter:
+  go_router:
+  get_it:
+  responsive_framework:
+  google_fonts:
+  url_launcher:
+  flutter_html:
+  shimmer:
+  carousel_slider:
+  timeline_tile:
+  flutter_launcher_icons:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter_launcher_icons:
+  web:
+    generate: true
+    image_path: "assets/logo/logo.png"
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/images/foto.png
+    - assets/images/projetos/cip/
+    - assets/images/projetos/claro-lgpd/
+    - assets/images/projetos/leagueOfLegends/
+    - assets/images/projetos/mambo/
+    - assets/images/projetos/meu-tecnico/
+    - assets/images/projetos/mobileBus/
+    - assets/images/projetos/proje-oi/
+    - assets/images/projetos/tcc/
+    - assets/images/projetos/fonteReiki/
+    - assets/images/projetos/quebus/
+    - assets/data/
+    - assets/logo/
