@@ -78281,7 +78281,7 @@ A.Rv.prototype={}
 A.Ki.prototype={
 L(a){return A.aoD(new A.a8J(this))}}
 A.a8J.prototype={
-$2(a,b){var s,r,q,p=null,o=b.b,n=o-B.as.gc1(),m=B.c.j4(n/300),l=m*((n-0*(m-1))/m+0)+B.as.gc1()
+$2(a,b){var s,r,q,p=null,o=b.b,n=o-B.as.gc1(),m=B.c.j4(n/350),l=m*((n-0*(m-1))/m+0)+B.as.gc1()
 if(B.ax.i(0,B.ax)||B.ax.i(0,B.c7)||B.ax.i(0,B.za))s=B.as
 else{r=B.ax.i(0,B.P)||B.ax.i(0,B.hT)||B.ax.i(0,B.hS)
 q=o-l
@@ -78294,7 +78294,7 @@ $S:534}
 A.Rw.prototype={
 Po(a){return new A.Lk(this.rx,this.ry,null)}}
 A.a8I.prototype={
-Ge(a){var s=a.w,r=B.c.j4(s/300),q=(s-0*(r-1))/r,p=q/1,o=p+0,n=q+0
+Ge(a){var s=a.w,r=B.c.j4(s/350),q=(s-0*(r-1))/r,p=q/1,o=p+0,n=q+0
 return new A.abI(r,o,n,p,q,A.v8(a.x))}}
 A.Kk.prototype={
 H(){return"ResponsiveRowColumnType."+this.b}}
