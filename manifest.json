@@ -1,11 +1,11 @@
 {
-    "name": "Herrison Féres",
-    "short_name": "Herrison Féres",
+    "name": "website",
+    "short_name": "website",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Demonstração de Portfólio.",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
